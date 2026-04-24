@@ -34,10 +34,10 @@ numpy==1.26.4
 pandas==2.2.3
 # scipy 1.13.x is the last series supporting Python 3.9
 scipy==1.13.0
-# scikit-learn 1.4.x is the last series supporting Python 3.9
-scikit-learn==1.4.2
-joblib==1.4.2
-threadpoolctl==3.6.0
+# scikit-learn pinned to 1.0.2 — required by mleap==0.23.0
+scikit-learn==1.0.2
+joblib==1.1.1
+threadpoolctl==3.1.0
 
 # ── Database ──────────────────────────────────────────────────────────────────
 supabase==2.9.1
