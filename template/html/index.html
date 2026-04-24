@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head><title>Profit Predictor</title></head>
+<body>
+    <h2>Profit Predictor</h2>
+    <a href="/yield">Yield</a> |
+    <a href="/demand">Demand Level</a> |
+    <a href="/market_price">Market Price</a>
+    <br><br>
+
+    <form action="/predict_profit" method="post">
+
+        <b>Crop & Farm</b><br>
+        Crop Name: <input type="text" name="crop" value="Peach"><br>
+
+        Farm Location:
+        <select name="farm_location">
+            <option value="Jordan Valley">Jordan Valley</option>
+            <option value="Highlands">Highlands</option>
+            <option value="Southern">Southern</option>
+            <option value="Other">Other</option>
+        </select><br>
+
+        Demand Level:
+        <select name="demand">
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+        </select><br>
+
+        Area (ha): <input type="number" step="0.1" name="area" value="10.0"><br>
+        Planting Date: <input type="date" name="p_date" value="2023-01-01"><br>
+        Sale Date: <input type="date" name="s_date" value="2023-06-01"><br>
+        <br>
+
+        <b>Farm Inputs</b><br>
+        Fertilizer Used: <input type="number" step="0.1" name="fertilizer_used" value="0.0"><br>
+        Water Used: <input type="number" step="0.1" name="water_used" value="0.0"><br>
+        Actual Yield: <input type="number" step="0.1" name="actual_yield" value="0.0"><br>
+        <br>
+
+        <b>Market</b><br>
+        Market Price: <input type="number" step="0.01" name="market_price" value="0.0"><br>
+        Supply Level: <input type="number" step="0.1" name="supply_level" value="0.0"><br>
+        <br>
+
+        <b>Weather</b><br>
+        Humidity (%): <input type="number" step="0.1" name="humidity" value="0.0"><br>
+        Rainfall (mm): <input type="number" step="0.1" name="rainfall" value="0.0"><br>
+        Wind Speed (km/h): <input type="number" step="0.1" name="wind_speed" value="0.0"><br>
+        <br>
+
+        <input type="submit" value="Predict Profit">
+    </form>
+</body>
+</html>

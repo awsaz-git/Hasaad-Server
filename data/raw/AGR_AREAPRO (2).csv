@@ -1,0 +1,1731 @@
+"Area, Average Yield and Production of Vegetables by Area & Production, KIND, Crop, Level and Time"
+
+"Area & Production";"KIND";"Crop";"Level";"2020";"2021";"2022";"2023";"2024"
+"Area";"Summer";"Tomatoes";"Amman";2125.0;2473.0;3115.3;3217.1;3349.0
+"Area";"Summer";"Tomatoes";"Balqa";71.5;644.8;160.7;127.7;132.9
+"Area";"Summer";"Tomatoes";"Zarqa";390.4;372.0;428.6;340.4;354.4
+"Area";"Summer";"Tomatoes";"Madaba";1707.8;948.8;1653.0;1313.1;1366.9
+"Area";"Summer";"Tomatoes";"Irbid";1228.6;893.9;1271.9;1010.4;1051.8
+"Area";"Summer";"Tomatoes";"Mafraq";8500.6;6110.5;7474.2;6679.5;7417.0
+"Area";"Summer";"Tomatoes";"Jarash";127.5;322.6;450.0;357.5;372.1
+"Area";"Summer";"Tomatoes";"Ajloun";137.6;742.7;416.7;331.0;221.5
+"Area";"Summer";"Tomatoes";"Karak";3788.4;974.7;1239.8;984.8;1196.1
+"Area";"Summer";"Tomatoes";"Tafiela";1192.1;1281.5;1838.2;1460.2;1520.1
+"Area";"Summer";"Tomatoes";"Ma'an";4514.0;4977.3;4145.8;3293.3;3428.3
+"Area";"Summer";"Tomatoes";"Aqaba";2862.6;11091.8;8970.5;7126.0;7418.0
+"Area";"Summer";"Tomatoes";"Barn North";1662.2;2076.0;2409.5;1914.1;2061.2
+"Area";"Summer";"Tomatoes";"Deir Alla";4652.1;4834.5;5539.4;4400.4;4949.2
+"Area";"Summer";"Tomatoes";"Barn South";969.6;1047.4;1339.2;1063.9;1107.5
+"Area";"Summer";"Tomatoes";"Ghor Safi";4303.7;3864.0;3905.4;3102.4;3396.2
+"Area";"Summer";"Squash";"Amman";3503.0;2364.0;3350.9;4492.2;3647.8
+"Area";"Summer";"Squash";"Balqa";210.8;819.1;949.0;989.5;803.5
+"Area";"Summer";"Squash";"Zarqa";2146.4;1246.4;1127.3;1175.4;954.4
+"Area";"Summer";"Squash";"Madaba";0.0;0.0;181.6;189.3;153.7
+"Area";"Summer";"Squash";"Irbid";2371.5;1923.0;1122.9;1170.8;950.7
+"Area";"Summer";"Squash";"Mafraq";825.0;690.5;739.5;771.0;626.1
+"Area";"Summer";"Squash";"Jarash";621.5;369.3;579.6;604.3;490.7
+"Area";"Summer";"Squash";"Ajloun";0.0;0.0;54.3;56.7;46.0
+"Area";"Summer";"Squash";"Karak";0.0;0.0;214.6;223.8;181.7
+"Area";"Summer";"Squash";"Tafiela";0.0;219.7;127.9;133.4;108.3
+"Area";"Summer";"Squash";"Ma'an";0.0;614.8;133.2;138.9;112.8
+"Area";"Summer";"Squash";"Aqaba";0.0;0.0;5.4;5.6;4.6
+"Area";"Summer";"Squash";"Barn North";67.0;174.4;689.9;959.1;778.8
+"Area";"Summer";"Squash";"Deir Alla";541.6;1481.4;1823.5;2570.3;2087.2
+"Area";"Summer";"Squash";"Barn South";1668.8;1474.1;2072.0;2376.5;1929.8
+"Area";"Summer";"Squash";"Ghor Safi";413.6;717.5;464.4;532.6;432.5
+"Area";"Summer";"Eggplants";"Amman";415.1;363.8;389.1;408.8;377.1
+"Area";"Summer";"Eggplants";"Balqa";0.0;282.5;138.6;145.7;134.4
+"Area";"Summer";"Eggplants";"Zarqa";115.0;445.3;448.3;471.1;434.5
+"Area";"Summer";"Eggplants";"Madaba";1138.5;0.0;667.9;701.8;647.3
+"Area";"Summer";"Eggplants";"Irbid";0.0;255.9;62.1;65.2;60.2
+"Area";"Summer";"Eggplants";"Mafraq";231.0;146.0;209.1;219.7;202.7
+"Area";"Summer";"Eggplants";"Jarash";68.7;583.7;345.4;363.0;334.8
+"Area";"Summer";"Eggplants";"Ajloun";0.0;0.0;19.8;20.8;19.1
+"Area";"Summer";"Eggplants";"Karak";4.0;154.0;84.0;88.2;81.4
+"Area";"Summer";"Eggplants";"Tafiela";0.0;0.0;3.7;3.9;3.6
+"Area";"Summer";"Eggplants";"Ma'an";0.0;0.0;1.0;1.0;0.9
+"Area";"Summer";"Eggplants";"Aqaba";0.0;0.0;18.4;19.4;17.9
+"Area";"Summer";"Eggplants";"Barn North";770.9;1546.0;734.4;771.7;711.7
+"Area";"Summer";"Eggplants";"Deir Alla";1487.0;1299.6;972.7;1022.0;942.7
+"Area";"Summer";"Eggplants";"Barn South";2141.8;176.6;864.9;1156.6;1066.8
+"Area";"Summer";"Eggplants";"Ghor Safi";419.3;807.2;176.4;185.4;171.0
+"Area";"Summer";"Cucumber";"Amman";198.5;1232.5;1152.6;1343.6;1229.6
+"Area";"Summer";"Cucumber";"Balqa";67.5;752.7;1009.4;1176.6;1076.8
+"Area";"Summer";"Cucumber";"Zarqa";0.0;7.0;16.7;19.4;17.8
+"Area";"Summer";"Cucumber";"Madaba";113.6;0.0;291.7;340.1;311.2
+"Area";"Summer";"Cucumber";"Irbid";56.5;382.6;167.9;195.8;179.2
+"Area";"Summer";"Cucumber";"Mafraq";504.2;229.0;434.3;506.3;463.4
+"Area";"Summer";"Cucumber";"Jarash";0.0;96.3;228.6;266.5;243.9
+"Area";"Summer";"Cucumber";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cucumber";"Karak";42.3;15.0;130.1;151.7;138.8
+"Area";"Summer";"Cucumber";"Tafiela";285.5;73.2;81.5;95.0;87.0
+"Area";"Summer";"Cucumber";"Ma'an";0.0;11.5;2.3;2.7;2.5
+"Area";"Summer";"Cucumber";"Aqaba";40.0;0.0;2.5;2.9;2.7
+"Area";"Summer";"Cucumber";"Barn North";635.1;812.1;250.8;292.4;267.6
+"Area";"Summer";"Cucumber";"Deir Alla";3550.6;3240.6;2625.5;3060.6;2801.0
+"Area";"Summer";"Cucumber";"Barn South";1069.8;637.7;567.5;536.5;491.0
+"Area";"Summer";"Cucumber";"Ghor Safi";97.5;354.3;72.9;85.0;77.8
+"Area";"Summer";"Potato";"Amman";116.0;430.6;335.0;399.4;361.8
+"Area";"Summer";"Potato";"Balqa";0.0;5.0;0.8;1.0;0.9
+"Area";"Summer";"Potato";"Zarqa";0.0;0.0;537.0;640.2;580.0
+"Area";"Summer";"Potato";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Potato";"Irbid";1670.8;1760.0;2684.0;2341.9;1884.2
+"Area";"Summer";"Potato";"Mafraq";115.0;0.0;104.2;124.2;112.6
+"Area";"Summer";"Potato";"Jarash";0.0;0.0;46.5;55.4;50.2
+"Area";"Summer";"Potato";"Ajloun";0.0;0.0;13.0;15.5;14.0
+"Area";"Summer";"Potato";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Potato";"Tafiela";0.0;439.4;0.0;0.0;0.0
+"Area";"Summer";"Potato";"Ma'an";3000.0;7400.0;5047.2;5705.6;5450.9
+"Area";"Summer";"Potato";"Aqaba";4262.0;3990.0;3368.2;4015.3;3637.6
+"Area";"Summer";"Potato";"Barn North";136.0;0.0;487.3;580.9;526.3
+"Area";"Summer";"Potato";"Deir Alla";659.7;3234.0;3748.6;4149.6;3759.3
+"Area";"Summer";"Potato";"Barn South";50.0;655.1;435.4;415.2;376.2
+"Area";"Summer";"Potato";"Ghor Safi";387.7;0.0;75.4;78.6;71.2
+"Area";"Summer";"Cabbage";"Amman";0.0;181.4;331.7;296.4;302.7
+"Area";"Summer";"Cabbage";"Balqa";0.0;66.9;58.1;51.9;53.0
+"Area";"Summer";"Cabbage";"Zarqa";2602.9;868.8;887.5;793.1;810.0
+"Area";"Summer";"Cabbage";"Madaba";0.0;0.0;232.8;208.0;212.4
+"Area";"Summer";"Cabbage";"Irbid";0.0;79.8;66.2;59.1;60.4
+"Area";"Summer";"Cabbage";"Mafraq";1005.0;470.0;701.1;537.0;548.5
+"Area";"Summer";"Cabbage";"Jarash";860.6;0.0;90.9;81.3;83.0
+"Area";"Summer";"Cabbage";"Ajloun";0.0;0.0;13.0;11.6;11.8
+"Area";"Summer";"Cabbage";"Karak";0.0;719.7;92.1;82.3;84.1
+"Area";"Summer";"Cabbage";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cabbage";"Ma'an";0.0;0.0;23.6;21.1;21.5
+"Area";"Summer";"Cabbage";"Aqaba";0.0;0.0;6.4;5.7;5.8
+"Area";"Summer";"Cabbage";"Barn North";0.0;0.0;57.1;51.0;52.1
+"Area";"Summer";"Cabbage";"Deir Alla";0.0;238.1;258.3;230.8;235.7
+"Area";"Summer";"Cabbage";"Barn South";260.0;820.8;272.4;243.4;248.6
+"Area";"Summer";"Cabbage";"Ghor Safi";0.0;0.0;14.2;12.7;13.0
+"Area";"Summer";"Cauliflower";"Amman";0.0;278.4;561.3;712.3;565.4
+"Area";"Summer";"Cauliflower";"Balqa";0.0;0.0;217.1;244.9;194.4
+"Area";"Summer";"Cauliflower";"Zarqa";3010.1;205.0;1803.3;2034.1;1614.6
+"Area";"Summer";"Cauliflower";"Madaba";0.0;0.0;18.5;20.9;16.6
+"Area";"Summer";"Cauliflower";"Irbid";0.0;0.0;0.3;0.4;0.3
+"Area";"Summer";"Cauliflower";"Mafraq";665.0;2605.0;1252.0;1350.9;1072.3
+"Area";"Summer";"Cauliflower";"Jarash";701.2;0.0;141.1;159.1;126.3
+"Area";"Summer";"Cauliflower";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cauliflower";"Karak";10.0;1155.6;219.0;247.0;196.1
+"Area";"Summer";"Cauliflower";"Tafiela";0.0;329.5;65.3;73.6;58.4
+"Area";"Summer";"Cauliflower";"Ma'an";0.0;639.8;187.4;211.3;167.8
+"Area";"Summer";"Cauliflower";"Aqaba";0.0;0.0;29.0;32.7;25.9
+"Area";"Summer";"Cauliflower";"Barn North";0.0;0.0;188.0;212.0;168.3
+"Area";"Summer";"Cauliflower";"Deir Alla";0.0;601.8;141.3;159.4;126.5
+"Area";"Summer";"Cauliflower";"Barn South";583.9;1153.2;288.7;325.7;258.5
+"Area";"Summer";"Cauliflower";"Ghor Safi";0.0;0.0;16.2;18.3;14.5
+"Area";"Summer";"Hot pepper";"Amman";0.0;69.5;181.2;136.3;135.4
+"Area";"Summer";"Hot pepper";"Balqa";0.0;0.0;106.4;80.1;79.5
+"Area";"Summer";"Hot pepper";"Zarqa";40.0;61.6;100.5;75.6;75.1
+"Area";"Summer";"Hot pepper";"Madaba";0.0;0.0;94.1;70.8;70.3
+"Area";"Summer";"Hot pepper";"Irbid";0.0;127.4;98.4;74.0;73.5
+"Area";"Summer";"Hot pepper";"Mafraq";549.6;424.0;1000.5;752.8;747.4
+"Area";"Summer";"Hot pepper";"Jarash";52.8;532.1;206.2;155.2;154.0
+"Area";"Summer";"Hot pepper";"Ajloun";0.0;0.0;49.2;37.0;36.7
+"Area";"Summer";"Hot pepper";"Karak";0.0;403.9;198.7;149.5;148.4
+"Area";"Summer";"Hot pepper";"Tafiela";0.0;0.0;3.8;2.9;2.8
+"Area";"Summer";"Hot pepper";"Ma'an";0.0;12.0;3.8;2.9;2.9
+"Area";"Summer";"Hot pepper";"Aqaba";0.0;0.0;1.0;0.8;0.8
+"Area";"Summer";"Hot pepper";"Barn North";20.0;161.2;524.9;395.0;392.1
+"Area";"Summer";"Hot pepper";"Deir Alla";0.0;281.1;524.4;394.6;391.7
+"Area";"Summer";"Hot pepper";"Barn South";0.0;0.0;75.6;56.9;56.5
+"Area";"Summer";"Hot pepper";"Ghor Safi";545.5;566.1;375.3;282.4;280.4
+"Area";"Summer";"Sweet pepper";"Amman";57.5;147.1;628.0;1025.0;1086.6
+"Area";"Summer";"Sweet pepper";"Balqa";0.0;195.6;159.8;260.8;276.5
+"Area";"Summer";"Sweet pepper";"Zarqa";728.8;414.8;302.7;494.1;523.8
+"Area";"Summer";"Sweet pepper";"Madaba";0.0;0.0;112.3;183.3;194.3
+"Area";"Summer";"Sweet pepper";"Irbid";450.0;257.9;558.3;683.4;724.5
+"Area";"Summer";"Sweet pepper";"Mafraq";330.0;1111.0;1699.7;2774.1;2940.9
+"Area";"Summer";"Sweet pepper";"Jarash";0.0;0.0;75.4;123.0;130.4
+"Area";"Summer";"Sweet pepper";"Ajloun";0.0;0.0;15.0;18.3;19.4
+"Area";"Summer";"Sweet pepper";"Karak";0.0;1714.4;318.1;454.3;481.6
+"Area";"Summer";"Sweet pepper";"Tafiela";0.0;0.0;1.1;1.8;1.9
+"Area";"Summer";"Sweet pepper";"Ma'an";0.0;30.0;3.0;4.8;5.1
+"Area";"Summer";"Sweet pepper";"Aqaba";40.0;0.0;49.3;80.4;85.3
+"Area";"Summer";"Sweet pepper";"Barn North";694.9;415.8;696.3;1136.4;1204.7
+"Area";"Summer";"Sweet pepper";"Deir Alla";2785.0;2172.5;1700.1;2774.8;2941.6
+"Area";"Summer";"Sweet pepper";"Barn South";1275.7;625.8;394.2;615.5;652.5
+"Area";"Summer";"Sweet pepper";"Ghor Safi";0.0;0.0;67.9;110.8;117.5
+"Area";"Summer";"Broad beans";"Amman";0.0;14.7;21.1;44.7;15.2
+"Area";"Summer";"Broad beans";"Balqa";0.0;0.0;3.0;6.3;2.2
+"Area";"Summer";"Broad beans";"Zarqa";0.0;0.0;14.2;30.0;10.2
+"Area";"Summer";"Broad beans";"Madaba";0.0;910.8;47.2;100.0;34.1
+"Area";"Summer";"Broad beans";"Irbid";1186.3;1094.9;167.3;354.3;120.7
+"Area";"Summer";"Broad beans";"Mafraq";0.0;0.0;0.9;1.8;0.6
+"Area";"Summer";"Broad beans";"Jarash";0.0;0.0;0.9;2.0;0.7
+"Area";"Summer";"Broad beans";"Ajloun";0.0;0.0;16.3;34.6;11.8
+"Area";"Summer";"Broad beans";"Karak";0.0;0.0;3.3;7.0;2.4
+"Area";"Summer";"Broad beans";"Tafiela";47.8;0.0;0.8;1.6;0.5
+"Area";"Summer";"Broad beans";"Ma'an";45.0;100.0;3.0;6.4;2.2
+"Area";"Summer";"Broad beans";"Aqaba";200.0;0.0;132.0;279.5;95.2
+"Area";"Summer";"Broad beans";"Barn North";0.0;0.0;18.3;38.7;13.2
+"Area";"Summer";"Broad beans";"Deir Alla";0.0;66.1;32.8;69.4;23.6
+"Area";"Summer";"Broad beans";"Barn South";26.6;0.0;2.0;4.2;1.4
+"Area";"Summer";"Broad beans";"Ghor Safi";0.0;190.2;35.2;74.5;25.4
+"Area";"Summer";"String beans";"Amman";694.4;72.0;246.2;333.1;206.8
+"Area";"Summer";"String beans";"Balqa";0.0;0.0;183.8;248.7;154.4
+"Area";"Summer";"String beans";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"String beans";"Madaba";0.0;0.0;55.7;75.4;46.8
+"Area";"Summer";"String beans";"Irbid";0.0;0.0;191.8;259.5;161.1
+"Area";"Summer";"String beans";"Mafraq";364.0;0.0;162.1;219.4;136.2
+"Area";"Summer";"String beans";"Jarash";0.0;32.1;38.5;52.1;32.3
+"Area";"Summer";"String beans";"Ajloun";0.0;0.0;20.9;28.2;17.5
+"Area";"Summer";"String beans";"Karak";0.0;0.0;95.7;129.5;80.4
+"Area";"Summer";"String beans";"Tafiela";0.0;0.0;6.5;8.7;5.4
+"Area";"Summer";"String beans";"Ma'an";265.0;250.0;258.9;350.3;217.4
+"Area";"Summer";"String beans";"Aqaba";0.0;0.0;121.3;164.1;101.9
+"Area";"Summer";"String beans";"Barn North";0.0;118.6;368.6;498.8;309.6
+"Area";"Summer";"String beans";"Deir Alla";96.1;724.2;365.5;494.5;306.9
+"Area";"Summer";"String beans";"Barn South";0.0;0.0;65.1;88.1;54.7
+"Area";"Summer";"String beans";"Ghor Safi";410.0;678.3;775.0;1048.6;650.9
+"Area";"Summer";"Peas";"Amman";0.0;7.4;78.4;143.4;38.3
+"Area";"Summer";"Peas";"Balqa";0.0;0.0;0.6;1.1;0.3
+"Area";"Summer";"Peas";"Zarqa";0.0;0.0;0.3;0.5;0.1
+"Area";"Summer";"Peas";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Irbid";1052.9;0.0;187.6;343.1;91.6
+"Area";"Summer";"Peas";"Mafraq";0.0;23.1;9.3;17.1;4.6
+"Area";"Summer";"Peas";"Jarash";0.0;307.1;48.6;88.8;23.7
+"Area";"Summer";"Peas";"Ajloun";30.6;108.7;24.8;45.3;12.1
+"Area";"Summer";"Peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Barn North";0.0;38.5;9.0;16.5;4.4
+"Area";"Summer";"Peas";"Deir Alla";0.0;99.2;19.0;34.8;9.3
+"Area";"Summer";"Peas";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Peas";"Ghor Safi";0.0;0.0;2.7;4.9;1.3
+"Area";"Summer";"Cow-peas";"Amman";0.0;198.6;68.4;68.1;69.9
+"Area";"Summer";"Cow-peas";"Balqa";0.0;0.0;92.7;92.2;94.7
+"Area";"Summer";"Cow-peas";"Zarqa";0.0;63.2;65.6;65.2;67.0
+"Area";"Summer";"Cow-peas";"Madaba";0.0;0.0;1.2;1.2;1.3
+"Area";"Summer";"Cow-peas";"Irbid";14.8;187.9;106.6;106.0;108.8
+"Area";"Summer";"Cow-peas";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Cow-peas";"Barn North";93.9;0.0;117.3;116.6;119.8
+"Area";"Summer";"Cow-peas";"Deir Alla";20.4;0.0;53.5;53.1;54.6
+"Area";"Summer";"Cow-peas";"Barn South";0.0;0.0;3.7;3.6;3.7
+"Area";"Summer";"Cow-peas";"Ghor Safi";292.2;0.0;76.3;75.9;77.9
+"Area";"Summer";"Jew's mallow";"Amman";0.0;0.0;1.8;1.7;1.5
+"Area";"Summer";"Jew's mallow";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Zarqa";190.0;158.0;29.8;28.3;25.4
+"Area";"Summer";"Jew's mallow";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Irbid";0.0;0.0;0.1;0.1;0.1
+"Area";"Summer";"Jew's mallow";"Mafraq";150.0;0.0;13.5;12.8;11.5
+"Area";"Summer";"Jew's mallow";"Jarash";0.0;0.0;0.2;0.2;0.1
+"Area";"Summer";"Jew's mallow";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Jew's mallow";"Barn North";1544.0;304.9;724.0;686.5;617.9
+"Area";"Summer";"Jew's mallow";"Deir Alla";1453.4;2172.5;1139.4;1080.3;972.5
+"Area";"Summer";"Jew's mallow";"Barn South";352.8;188.1;752.8;713.8;642.5
+"Area";"Summer";"Jew's mallow";"Ghor Safi";9538.3;5578.3;4931.8;4676.1;4209.1
+"Area";"Summer";"Okra";"Amman";803.9;1938.6;1141.8;1214.7;1373.2
+"Area";"Summer";"Okra";"Balqa";0.0;436.4;111.0;118.1;133.5
+"Area";"Summer";"Okra";"Zarqa";0.0;47.4;10.9;11.6;13.1
+"Area";"Summer";"Okra";"Madaba";0.0;1062.6;267.2;284.3;321.4
+"Area";"Summer";"Okra";"Irbid";3912.6;1898.8;2090.1;2223.6;2513.8
+"Area";"Summer";"Okra";"Mafraq";0.0;254.6;22.8;24.3;27.5
+"Area";"Summer";"Okra";"Jarash";0.0;322.6;77.5;82.4;93.2
+"Area";"Summer";"Okra";"Ajloun";30.6;0.0;30.7;32.7;37.0
+"Area";"Summer";"Okra";"Karak";36.2;50.0;84.4;89.8;101.5
+"Area";"Summer";"Okra";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Okra";"Ma'an";0.0;0.0;4.1;4.3;4.9
+"Area";"Summer";"Okra";"Aqaba";0.0;114.1;15.2;16.2;18.3
+"Area";"Summer";"Okra";"Barn North";1301.9;697.7;1513.5;1610.2;1820.3
+"Area";"Summer";"Okra";"Deir Alla";1033.6;1746.0;1197.3;1273.7;1440.0
+"Area";"Summer";"Okra";"Barn South";0.0;94.0;135.5;144.1;162.9
+"Area";"Summer";"Okra";"Ghor Safi";227.0;65.6;198.4;211.1;238.6
+"Area";"Summer";"Lettuce";"Amman";1420.8;962.5;1474.6;3253.9;2328.9
+"Area";"Summer";"Lettuce";"Balqa";0.0;234.2;284.2;432.4;309.5
+"Area";"Summer";"Lettuce";"Zarqa";1.0;1860.2;1298.2;1975.7;1414.0
+"Area";"Summer";"Lettuce";"Madaba";0.0;0.0;0.4;0.6;0.5
+"Area";"Summer";"Lettuce";"Irbid";0.0;187.9;74.8;113.9;81.5
+"Area";"Summer";"Lettuce";"Mafraq";0.0;175.0;323.0;491.6;351.9
+"Area";"Summer";"Lettuce";"Jarash";239.0;322.6;350.3;533.1;381.6
+"Area";"Summer";"Lettuce";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Lettuce";"Karak";0.0;0.0;167.6;255.1;182.6
+"Area";"Summer";"Lettuce";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Lettuce";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Lettuce";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Lettuce";"Barn North";0.0;0.0;331.1;503.8;360.6
+"Area";"Summer";"Lettuce";"Deir Alla";809.8;185.2;1510.8;2299.2;1645.6
+"Area";"Summer";"Lettuce";"Barn South";383.8;976.1;507.1;771.7;552.3
+"Area";"Summer";"Lettuce";"Ghor Safi";0.0;0.0;1.2;1.9;1.3
+"Area";"Summer";"Sweet melon";"Amman";45.0;630.0;945.3;676.5;590.8
+"Area";"Summer";"Sweet melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Sweet melon";"Zarqa";70.0;952.8;960.7;687.4;600.4
+"Area";"Summer";"Sweet melon";"Madaba";0.0;0.0;582.8;417.0;364.2
+"Area";"Summer";"Sweet melon";"Irbid";0.0;56.2;153.7;110.0;96.1
+"Area";"Summer";"Sweet melon";"Mafraq";125.0;422.9;1126.5;1036.4;905.2
+"Area";"Summer";"Sweet melon";"Jarash";0.0;73.7;224.0;160.3;140.0
+"Area";"Summer";"Sweet melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Sweet melon";"Karak";2533.5;2048.5;3225.9;2308.4;2016.1
+"Area";"Summer";"Sweet melon";"Tafiela";912.5;109.8;883.8;632.4;552.4
+"Area";"Summer";"Sweet melon";"Ma'an";280.0;592.0;813.9;582.4;508.7
+"Area";"Summer";"Sweet melon";"Aqaba";100.0;4070.7;3665.5;2622.9;2290.8
+"Area";"Summer";"Sweet melon";"Barn North";30.0;117.7;405.8;290.4;253.6
+"Area";"Summer";"Sweet melon";"Deir Alla";0.0;201.7;70.2;50.2;43.9
+"Area";"Summer";"Sweet melon";"Barn South";160.0;155.0;448.2;320.7;280.1
+"Area";"Summer";"Sweet melon";"Ghor Safi";4630.8;4809.4;5862.0;4194.7;3663.6
+"Area";"Summer";"Water melon";"Amman";200.0;1241.4;1071.5;827.0;553.2
+"Area";"Summer";"Water melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Water melon";"Zarqa";20.0;123.0;239.0;184.5;123.4
+"Area";"Summer";"Water melon";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Water melon";"Irbid";0.0;134.8;41.2;31.8;21.3
+"Area";"Summer";"Water melon";"Mafraq";930.0;717.9;1617.8;1548.3;1035.7
+"Area";"Summer";"Water melon";"Jarash";0.0;147.4;24.6;19.0;12.7
+"Area";"Summer";"Water melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Water melon";"Karak";1731.4;2884.0;1504.6;1161.2;776.8
+"Area";"Summer";"Water melon";"Tafiela";0.0;183.1;98.6;76.1;50.9
+"Area";"Summer";"Water melon";"Ma'an";2024.0;2170.0;2858.7;2206.4;1475.9
+"Area";"Summer";"Water melon";"Aqaba";6391.4;4862.7;6536.7;5045.0;3374.9
+"Area";"Summer";"Water melon";"Barn North";380.0;89.8;132.2;102.0;68.3
+"Area";"Summer";"Water melon";"Deir Alla";0.0;0.0;0.2;0.2;0.1
+"Area";"Summer";"Water melon";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Water melon";"Ghor Safi";1040.7;2509.3;2408.7;1859.1;1243.6
+"Area";"Summer";"Spinach";"Amman";0.0;0.0;13.8;16.3;13.5
+"Area";"Summer";"Spinach";"Balqa";0.0;549.9;40.3;47.6;39.4
+"Area";"Summer";"Spinach";"Zarqa";250.0;77.6;98.0;115.8;96.0
+"Area";"Summer";"Spinach";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Spinach";"Irbid";100.0;0.0;9.0;10.6;8.8
+"Area";"Summer";"Spinach";"Mafraq";375.0;0.0;103.3;150.5;124.8
+"Area";"Summer";"Spinach";"Jarash";0.0;0.0;0.1;0.1;0.1
+"Area";"Summer";"Spinach";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Spinach";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Spinach";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Spinach";"Ma'an";0.0;0.0;0.3;0.4;0.3
+"Area";"Summer";"Spinach";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Spinach";"Barn North";134.2;218.1;30.9;36.5;30.3
+"Area";"Summer";"Spinach";"Deir Alla";0.0;200.4;11.2;13.3;11.0
+"Area";"Summer";"Spinach";"Barn South";126.4;0.0;42.5;50.2;41.6
+"Area";"Summer";"Spinach";"Ghor Safi";405.4;64.0;31.9;37.7;31.2
+"Area";"Summer";"Onion green";"Amman";0.0;0.0;21.3;25.8;20.7
+"Area";"Summer";"Onion green";"Balqa";0.0;0.0;0.3;0.4;0.3
+"Area";"Summer";"Onion green";"Zarqa";200.0;5.0;30.7;37.1;29.8
+"Area";"Summer";"Onion green";"Madaba";0.0;0.0;23.1;28.0;22.5
+"Area";"Summer";"Onion green";"Irbid";669.0;281.9;289.0;349.7;280.8
+"Area";"Summer";"Onion green";"Mafraq";495.0;342.6;54.5;65.9;52.9
+"Area";"Summer";"Onion green";"Jarash";0.0;16.1;5.3;6.5;5.2
+"Area";"Summer";"Onion green";"Ajloun";0.0;145.7;12.8;15.4;12.4
+"Area";"Summer";"Onion green";"Karak";0.0;0.0;2.3;2.7;2.2
+"Area";"Summer";"Onion green";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Onion green";"Ma'an";0.0;200.0;21.7;26.2;21.1
+"Area";"Summer";"Onion green";"Aqaba";0.0;0.0;40.3;48.7;39.1
+"Area";"Summer";"Onion green";"Barn North";551.5;0.0;94.6;114.5;92.0
+"Area";"Summer";"Onion green";"Deir Alla";0.0;0.0;88.2;106.7;85.7
+"Area";"Summer";"Onion green";"Barn South";34.0;224.9;26.5;32.1;25.8
+"Area";"Summer";"Onion green";"Ghor Safi";60.0;0.0;8.2;9.9;7.9
+"Area";"Summer";"Onion dry";"Amman";0.0;647.8;1061.7;1221.8;1121.2
+"Area";"Summer";"Onion dry";"Balqa";0.0;91.2;51.3;59.0;54.2
+"Area";"Summer";"Onion dry";"Zarqa";0.0;0.0;97.5;112.2;102.9
+"Area";"Summer";"Onion dry";"Madaba";711.3;0.0;294.2;338.5;310.7
+"Area";"Summer";"Onion dry";"Irbid";3213.3;1521.1;2626.1;3022.2;2773.4
+"Area";"Summer";"Onion dry";"Mafraq";75.0;300.0;762.2;877.2;805.0
+"Area";"Summer";"Onion dry";"Jarash";0.0;0.0;43.3;49.8;45.7
+"Area";"Summer";"Onion dry";"Ajloun";0.0;742.7;123.5;142.1;130.4
+"Area";"Summer";"Onion dry";"Karak";32.7;13.0;1.6;0.0;1.7
+"Area";"Summer";"Onion dry";"Tafiela";350.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Onion dry";"Ma'an";750.0;603.0;1990.6;2290.9;2102.3
+"Area";"Summer";"Onion dry";"Aqaba";2200.0;1070.0;2192.3;2523.0;2315.3
+"Area";"Summer";"Onion dry";"Barn North";212.6;0.0;612.3;704.6;646.6
+"Area";"Summer";"Onion dry";"Deir Alla";171.0;224.9;1545.0;1817.6;1667.9
+"Area";"Summer";"Onion dry";"Barn South";0.0;133.1;310.9;357.8;328.3
+"Area";"Summer";"Onion dry";"Ghor Safi";333.8;382.3;459.8;529.2;485.6
+"Area";"Summer";"Snake cucumber";"Amman";2127.5;1228.5;1104.9;1167.5;772.6
+"Area";"Summer";"Snake cucumber";"Balqa";0.0;0.0;4.3;4.5;3.0
+"Area";"Summer";"Snake cucumber";"Zarqa";0.0;0.0;0.5;0.6;0.4
+"Area";"Summer";"Snake cucumber";"Madaba";0.0;1062.6;256.9;271.5;179.6
+"Area";"Summer";"Snake cucumber";"Irbid";1906.2;2445.8;3408.7;3601.9;2383.7
+"Area";"Summer";"Snake cucumber";"Mafraq";0.0;92.6;11.5;12.1;8.0
+"Area";"Summer";"Snake cucumber";"Jarash";0.0;0.0;0.1;0.1;0.1
+"Area";"Summer";"Snake cucumber";"Ajloun";0.0;345.1;73.5;77.7;51.4
+"Area";"Summer";"Snake cucumber";"Karak";378.8;679.8;163.8;173.1;114.6
+"Area";"Summer";"Snake cucumber";"Tafiela";0.0;0.0;0.3;0.3;0.2
+"Area";"Summer";"Snake cucumber";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Snake cucumber";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Snake cucumber";"Barn North";0.0;8.0;66.0;69.8;46.2
+"Area";"Summer";"Snake cucumber";"Deir Alla";0.0;0.0;41.6;44.0;29.1
+"Area";"Summer";"Snake cucumber";"Barn South";66.5;146.4;101.4;107.2;70.9
+"Area";"Summer";"Snake cucumber";"Ghor Safi";139.5;280.8;288.2;304.5;201.5
+"Area";"Summer";"Turnip";"Amman";0.0;0.0;0.3;0.1;0.1
+"Area";"Summer";"Turnip";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Zarqa";0.0;10.0;13.9;5.3;7.0
+"Area";"Summer";"Turnip";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Irbid";0.0;0.0;0.6;0.2;0.3
+"Area";"Summer";"Turnip";"Mafraq";0.0;0.0;0.3;0.1;0.1
+"Area";"Summer";"Turnip";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Ma'an";0.0;0.0;0.3;0.1;0.2
+"Area";"Summer";"Turnip";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Turnip";"Barn North";0.0;97.5;3.7;1.4;1.8
+"Area";"Summer";"Turnip";"Deir Alla";0.0;271.2;1.9;0.7;1.0
+"Area";"Summer";"Turnip";"Barn South";0.0;0.0;1.2;0.5;0.6
+"Area";"Summer";"Turnip";"Ghor Safi";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Amman";0.0;789.8;437.0;390.3;356.7
+"Area";"Summer";"Carrot";"Balqa";0.0;0.0;26.1;23.3;21.3
+"Area";"Summer";"Carrot";"Zarqa";0.0;97.4;150.9;134.8;123.2
+"Area";"Summer";"Carrot";"Madaba";0.0;0.0;2.9;2.6;2.4
+"Area";"Summer";"Carrot";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Mafraq";0.0;0.0;10.3;9.2;8.4
+"Area";"Summer";"Carrot";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Carrot";"Barn North";0.0;0.0;15.1;13.5;12.3
+"Area";"Summer";"Carrot";"Deir Alla";363.2;462.9;426.7;381.1;348.4
+"Area";"Summer";"Carrot";"Barn South";219.6;205.6;79.8;71.3;65.1
+"Area";"Summer";"Carrot";"Ghor Safi";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Amman";0.0;0.0;35.5;51.2;37.4
+"Area";"Summer";"Parsley";"Balqa";0.0;0.0;1.0;1.4;1.0
+"Area";"Summer";"Parsley";"Zarqa";897.5;12.0;279.5;402.8;294.3
+"Area";"Summer";"Parsley";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Irbid";0.0;0.0;0.0;0.1;0.0
+"Area";"Summer";"Parsley";"Mafraq";111.0;586.0;443.1;615.8;449.9
+"Area";"Summer";"Parsley";"Jarash";0.0;48.2;4.9;7.1;5.2
+"Area";"Summer";"Parsley";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Parsley";"Aqaba";0.0;0.0;17.9;25.8;18.9
+"Area";"Summer";"Parsley";"Barn North";67.1;0.0;15.7;22.6;16.5
+"Area";"Summer";"Parsley";"Deir Alla";185.3;0.0;33.6;48.4;35.3
+"Area";"Summer";"Parsley";"Barn South";465.8;345.8;274.3;395.4;288.9
+"Area";"Summer";"Parsley";"Ghor Safi";13.5;0.0;2.6;3.7;2.7
+"Area";"Summer";"Radish";"Amman";64.6;782.1;46.0;40.6;28.2
+"Area";"Summer";"Radish";"Balqa";0.0;0.0;2.7;2.4;1.7
+"Area";"Summer";"Radish";"Zarqa";424.6;268.5;243.0;214.6;148.9
+"Area";"Summer";"Radish";"Madaba";0.0;0.0;3.8;3.4;2.4
+"Area";"Summer";"Radish";"Irbid";0.0;30.0;2.5;2.2;1.5
+"Area";"Summer";"Radish";"Mafraq";0.0;0.0;1.4;1.3;0.9
+"Area";"Summer";"Radish";"Jarash";0.0;0.0;5.2;4.6;3.2
+"Area";"Summer";"Radish";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Radish";"Karak";0.0;0.0;0.8;0.7;0.5
+"Area";"Summer";"Radish";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Radish";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Radish";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Summer";"Radish";"Barn North";0.0;0.0;12.7;11.2;7.8
+"Area";"Summer";"Radish";"Deir Alla";88.5;165.3;26.3;23.2;16.1
+"Area";"Summer";"Radish";"Barn South";0.0;0.0;13.4;11.9;8.2
+"Area";"Summer";"Radish";"Ghor Safi";0.0;0.0;0.7;0.6;0.4
+"Area";"Summer";"Other Vegetables";"Amman";90.4;2658.0;1545.4;1870.9;1464.4
+"Area";"Summer";"Other Vegetables";"Balqa";0.0;0.0;26.5;32.1;25.1
+"Area";"Summer";"Other Vegetables";"Zarqa";60.7;187.4;133.4;161.5;126.4
+"Area";"Summer";"Other Vegetables";"Madaba";0.0;0.0;3.0;3.6;2.9
+"Area";"Summer";"Other Vegetables";"Irbid";4047.5;7487.8;3680.3;4455.6;3487.6
+"Area";"Summer";"Other Vegetables";"Mafraq";146.0;747.8;396.7;480.3;376.0
+"Area";"Summer";"Other Vegetables";"Jarash";0.0;716.9;275.2;333.2;260.8
+"Area";"Summer";"Other Vegetables";"Ajloun";0.0;138.0;31.4;38.0;29.7
+"Area";"Summer";"Other Vegetables";"Karak";0.0;15.0;18.3;22.2;17.4
+"Area";"Summer";"Other Vegetables";"Tafiela";0.0;0.0;0.1;0.1;11.9
+"Area";"Summer";"Other Vegetables";"Ma'an";0.0;0.0;5.1;6.2;8.9
+"Area";"Summer";"Other Vegetables";"Aqaba";0.0;0.0;7.1;8.5;8.9
+"Area";"Summer";"Other Vegetables";"Barn North";133.3;263.1;119.2;144.3;115.4
+"Area";"Summer";"Other Vegetables";"Deir Alla";68.6;112.4;100.0;121.1;94.8
+"Area";"Summer";"Other Vegetables";"Barn South";326.1;504.2;363.6;440.2;350.0
+"Area";"Summer";"Other Vegetables";"Ghor Safi";13.5;36.0;53.0;64.2;52.3
+"Area";"Winter";"Tomatoes";"Amman";1185.0;1764.8;746.7;1003.6;1013.1
+"Area";"Winter";"Tomatoes";"Balqa";0.0;83.6;28.9;31.7;28.0
+"Area";"Winter";"Tomatoes";"Zarqa";350.0;375.1;423.5;499.2;442.0
+"Area";"Winter";"Tomatoes";"Madaba";3557.6;2087.3;1142.0;1346.0;1191.9
+"Area";"Winter";"Tomatoes";"Irbid";300.0;816.0;571.0;590.4;596.0
+"Area";"Winter";"Tomatoes";"Mafraq";237.5;1875.0;680.8;852.6;805.4
+"Area";"Winter";"Tomatoes";"Jarash";0.0;80.3;2.0;3.3;2.9
+"Area";"Winter";"Tomatoes";"Ajloun";0.0;344.3;0.3;0.3;0.3
+"Area";"Winter";"Tomatoes";"Karak";4082.3;2033.5;203.9;240.4;248.3
+"Area";"Winter";"Tomatoes";"Tafiela";2131.8;5478.2;718.4;846.8;749.8
+"Area";"Winter";"Tomatoes";"Ma'an";6020.0;1840.0;845.7;996.8;882.7
+"Area";"Winter";"Tomatoes";"Aqaba";7919.0;3524.8;3166.1;4071.0;3604.9
+"Area";"Winter";"Tomatoes";"Barn North";3145.5;1864.1;2791.9;3327.3;3047.9
+"Area";"Winter";"Tomatoes";"Deir Alla";6476.3;9031.7;8416.0;9919.7;9490.7
+"Area";"Winter";"Tomatoes";"Barn South";1257.8;1835.2;1512.4;1426.0;1578.5
+"Area";"Winter";"Tomatoes";"Ghor Safi";14472.5;18545.2;13116.4;15459.9;14146.2
+"Area";"Winter";"Squash";"Amman";1291.0;754.9;1170.5;1248.9;1097.9
+"Area";"Winter";"Squash";"Balqa";10.0;0.0;36.6;40.5;35.6
+"Area";"Winter";"Squash";"Zarqa";517.2;263.6;181.4;200.7;176.4
+"Area";"Winter";"Squash";"Madaba";0.0;0.0;22.1;24.5;21.5
+"Area";"Winter";"Squash";"Irbid";0.0;487.9;155.9;172.5;151.7
+"Area";"Winter";"Squash";"Mafraq";20.0;70.0;19.7;21.8;19.1
+"Area";"Winter";"Squash";"Jarash";0.0;48.2;10.5;11.7;10.2
+"Area";"Winter";"Squash";"Ajloun";0.0;53.0;13.4;14.9;13.1
+"Area";"Winter";"Squash";"Karak";0.0;10.0;66.8;73.9;64.9
+"Area";"Winter";"Squash";"Tafiela";0.0;512.6;209.1;231.4;203.4
+"Area";"Winter";"Squash";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Squash";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Squash";"Barn North";820.8;2186.3;1635.7;2327.0;2045.6
+"Area";"Winter";"Squash";"Deir Alla";3246.2;1828.6;3673.5;5298.6;4657.9
+"Area";"Winter";"Squash";"Barn South";3410.3;3560.3;4081.3;4967.5;4366.8
+"Area";"Winter";"Squash";"Ghor Safi";976.5;597.5;536.0;652.4;573.5
+"Area";"Winter";"Eggplants";"Amman";135.0;0.0;23.1;28.7;27.0
+"Area";"Winter";"Eggplants";"Balqa";0.0;20.0;96.2;119.4;112.4
+"Area";"Winter";"Eggplants";"Zarqa";768.1;19.0;89.6;111.2;104.7
+"Area";"Winter";"Eggplants";"Madaba";0.0;948.8;195.6;242.8;228.6
+"Area";"Winter";"Eggplants";"Irbid";0.0;0.0;6.1;249.6;9.0
+"Area";"Winter";"Eggplants";"Mafraq";70.0;100.0;77.3;96.0;90.3
+"Area";"Winter";"Eggplants";"Jarash";0.0;96.3;59.1;73.3;69.0
+"Area";"Winter";"Eggplants";"Ajloun";0.0;0.0;13.4;16.6;15.6
+"Area";"Winter";"Eggplants";"Karak";25.0;65.0;44.0;54.7;51.5
+"Area";"Winter";"Eggplants";"Tafiela";0.0;0.0;17.6;21.8;20.6
+"Area";"Winter";"Eggplants";"Ma'an";0.0;0.0;0.1;0.1;0.1
+"Area";"Winter";"Eggplants";"Aqaba";0.0;0.0;40.7;50.5;47.6
+"Area";"Winter";"Eggplants";"Barn North";652.0;1066.6;502.3;564.4;587.0
+"Area";"Winter";"Eggplants";"Deir Alla";1570.7;2485.9;1688.4;1995.7;1973.2
+"Area";"Winter";"Eggplants";"Barn South";2329.7;3322.1;2174.6;3435.9;3234.5
+"Area";"Winter";"Eggplants";"Ghor Safi";1147.3;1531.7;512.7;636.4;599.1
+"Area";"Winter";"Cucumber";"Amman";776.5;483.1;187.5;232.0;218.0
+"Area";"Winter";"Cucumber";"Balqa";0.0;167.3;176.1;218.0;204.8
+"Area";"Winter";"Cucumber";"Zarqa";0.0;5.0;246.4;304.9;286.5
+"Area";"Winter";"Cucumber";"Madaba";113.6;0.0;373.9;462.8;434.9
+"Area";"Winter";"Cucumber";"Irbid";0.0;219.1;182.1;219.1;205.9
+"Area";"Winter";"Cucumber";"Mafraq";0.0;90.0;10.4;12.9;12.1
+"Area";"Winter";"Cucumber";"Jarash";0.0;0.0;22.3;27.6;26.0
+"Area";"Winter";"Cucumber";"Ajloun";0.0;0.0;23.6;29.2;27.5
+"Area";"Winter";"Cucumber";"Karak";0.0;50.0;220.0;272.2;255.8
+"Area";"Winter";"Cucumber";"Tafiela";0.0;0.0;38.9;48.1;45.2
+"Area";"Winter";"Cucumber";"Ma'an";0.0;5.0;0.4;0.5;0.5
+"Area";"Winter";"Cucumber";"Aqaba";0.0;0.0;127.5;197.2;185.3
+"Area";"Winter";"Cucumber";"Barn North";826.2;636.3;876.1;1084.2;1018.9
+"Area";"Winter";"Cucumber";"Deir Alla";6706.7;5530.3;5879.8;6629.4;6230.0
+"Area";"Winter";"Cucumber";"Barn South";793.7;1369.8;657.4;659.9;620.1
+"Area";"Winter";"Cucumber";"Ghor Safi";16.6;211.8;164.0;203.0;190.8
+"Area";"Winter";"Potato";"Amman";0.0;0.0;65.2;94.1;74.3
+"Area";"Winter";"Potato";"Balqa";0.0;5.0;100.5;145.2;114.6
+"Area";"Winter";"Potato";"Zarqa";1435.6;1601.3;1579.6;2282.1;1800.6
+"Area";"Winter";"Potato";"Madaba";0.0;0.0;9.3;13.4;10.6
+"Area";"Winter";"Potato";"Irbid";2925.9;6365.1;3096.0;5383.9;2039.1
+"Area";"Winter";"Potato";"Mafraq";180.0;145.0;299.5;432.6;341.4
+"Area";"Winter";"Potato";"Jarash";239.0;0.0;38.5;55.7;43.9
+"Area";"Winter";"Potato";"Ajloun";0.0;74.5;10.9;15.8;12.5
+"Area";"Winter";"Potato";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Potato";"Tafiela";0.0;0.0;4.8;7.0;5.5
+"Area";"Winter";"Potato";"Ma'an";3000.0;2000.0;1868.7;2699.6;2130.1
+"Area";"Winter";"Potato";"Aqaba";4500.0;3902.6;3024.1;4368.8;3447.1
+"Area";"Winter";"Potato";"Barn North";6734.6;6762.1;5022.7;4845.5;5367.5
+"Area";"Winter";"Potato";"Deir Alla";8363.7;6881.4;6240.2;7239.4;6605.0
+"Area";"Winter";"Potato";"Barn South";525.5;1769.2;1703.2;1968.5;1553.2
+"Area";"Winter";"Potato";"Ghor Safi";391.0;92.8;62.9;79.5;62.7
+"Area";"Winter";"Cabbage";"Amman";350.0;104.2;521.8;593.8;430.5
+"Area";"Winter";"Cabbage";"Balqa";0.0;43.5;330.6;376.2;272.7
+"Area";"Winter";"Cabbage";"Zarqa";416.5;1481.2;1127.0;1282.4;929.7
+"Area";"Winter";"Cabbage";"Madaba";0.0;569.3;660.3;751.4;544.7
+"Area";"Winter";"Cabbage";"Irbid";0.0;50.8;195.8;870.3;151.0
+"Area";"Winter";"Cabbage";"Mafraq";600.0;625.0;392.0;382.3;277.2
+"Area";"Winter";"Cabbage";"Jarash";0.0;0.0;243.4;277.0;200.8
+"Area";"Winter";"Cabbage";"Ajloun";0.0;0.0;64.7;73.6;47.4
+"Area";"Winter";"Cabbage";"Karak";29.8;24.0;30.4;34.6;25.1
+"Area";"Winter";"Cabbage";"Tafiela";0.0;549.2;742.9;845.3;612.8
+"Area";"Winter";"Cabbage";"Ma'an";450.0;120.0;30.8;35.1;25.4
+"Area";"Winter";"Cabbage";"Aqaba";0.0;345.1;242.8;272.8;200.3
+"Area";"Winter";"Cabbage";"Barn North";203.6;34.7;490.6;558.2;404.7
+"Area";"Winter";"Cabbage";"Deir Alla";1518.9;1088.1;1415.9;1400.8;1162.1
+"Area";"Winter";"Cabbage";"Barn South";963.8;594.1;427.2;449.3;353.8
+"Area";"Winter";"Cabbage";"Ghor Safi";28.4;0.0;577.0;656.6;476.0
+"Area";"Winter";"Cauliflower";"Amman";696.4;994.3;1450.9;1704.4;1512.1
+"Area";"Winter";"Cauliflower";"Balqa";179.9;2628.6;669.4;830.1;736.4
+"Area";"Winter";"Cauliflower";"Zarqa";2788.6;3499.9;2523.7;3027.4;2685.7
+"Area";"Winter";"Cauliflower";"Madaba";0.0;0.0;10.4;11.7;10.4
+"Area";"Winter";"Cauliflower";"Irbid";0.0;118.2;33.7;34.9;30.9
+"Area";"Winter";"Cauliflower";"Mafraq";160.0;120.0;600.1;711.7;631.4
+"Area";"Winter";"Cauliflower";"Jarash";78.7;949.6;165.4;205.1;182.0
+"Area";"Winter";"Cauliflower";"Ajloun";0.0;0.0;4.0;5.0;4.5
+"Area";"Winter";"Cauliflower";"Karak";29.8;30.0;29.6;36.7;32.5
+"Area";"Winter";"Cauliflower";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cauliflower";"Ma'an";100.0;35.0;40.0;49.7;44.0
+"Area";"Winter";"Cauliflower";"Aqaba";0.0;345.1;203.3;252.1;223.6
+"Area";"Winter";"Cauliflower";"Barn North";171.8;258.2;525.4;651.5;578.0
+"Area";"Winter";"Cauliflower";"Deir Alla";216.1;492.7;576.7;715.1;634.4
+"Area";"Winter";"Cauliflower";"Barn South";1357.5;926.6;1400.3;1736.4;1540.4
+"Area";"Winter";"Cauliflower";"Ghor Safi";28.4;64.0;93.5;115.9;102.8
+"Area";"Winter";"Hot pepper";"Amman";0.0;18.6;18.6;19.7;15.8
+"Area";"Winter";"Hot pepper";"Balqa";0.0;962.4;347.0;367.7;295.4
+"Area";"Winter";"Hot pepper";"Zarqa";517.2;120.6;191.5;202.9;163.0
+"Area";"Winter";"Hot pepper";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Hot pepper";"Irbid";0.0;108.2;7.0;2528.4;5.5
+"Area";"Winter";"Hot pepper";"Mafraq";20.0;41.0;13.1;13.9;11.1
+"Area";"Winter";"Hot pepper";"Jarash";0.0;0.0;0.3;0.3;0.2
+"Area";"Winter";"Hot pepper";"Ajloun";0.0;0.0;6.0;6.3;5.1
+"Area";"Winter";"Hot pepper";"Karak";15.0;10.0;7.3;7.7;6.2
+"Area";"Winter";"Hot pepper";"Tafiela";0.0;0.0;53.1;56.3;45.2
+"Area";"Winter";"Hot pepper";"Ma'an";0.0;10.0;1.8;1.9;1.6
+"Area";"Winter";"Hot pepper";"Aqaba";0.0;0.0;60.4;48.9;51.4
+"Area";"Winter";"Hot pepper";"Barn North";1290.1;624.6;1082.8;534.8;896.9
+"Area";"Winter";"Hot pepper";"Deir Alla";699.8;691.1;979.2;433.7;833.6
+"Area";"Winter";"Hot pepper";"Barn South";91.0;0.0;175.0;120.6;148.9
+"Area";"Winter";"Hot pepper";"Ghor Safi";922.4;382.4;767.8;414.6;653.7
+"Area";"Winter";"Sweet pepper";"Amman";0.0;109.3;107.2;159.5;172.0
+"Area";"Winter";"Sweet pepper";"Balqa";0.0;167.3;92.1;137.0;147.9
+"Area";"Winter";"Sweet pepper";"Zarqa";1454.2;315.9;217.1;322.9;348.4
+"Area";"Winter";"Sweet pepper";"Madaba";0.0;0.0;1.8;2.6;2.8
+"Area";"Winter";"Sweet pepper";"Irbid";250.0;437.7;431.0;447.3;482.6
+"Area";"Winter";"Sweet pepper";"Mafraq";20.0;55.0;16.7;1074.3;26.8
+"Area";"Winter";"Sweet pepper";"Jarash";12.0;176.6;25.6;38.0;41.0
+"Area";"Winter";"Sweet pepper";"Ajloun";0.0;0.0;29.7;33.1;35.7
+"Area";"Winter";"Sweet pepper";"Karak";20.0;15.0;10.3;13.4;14.4
+"Area";"Winter";"Sweet pepper";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet pepper";"Ma'an";0.0;18.0;2.1;3.1;3.3
+"Area";"Winter";"Sweet pepper";"Aqaba";0.0;365.1;760.7;1068.6;1176.0
+"Area";"Winter";"Sweet pepper";"Barn North";1358.2;894.4;1181.9;1643.0;1859.1
+"Area";"Winter";"Sweet pepper";"Deir Alla";5094.8;3640.7;3545.6;4007.2;5425.9
+"Area";"Winter";"Sweet pepper";"Barn South";1550.4;518.4;734.7;1045.4;1015.1
+"Area";"Winter";"Sweet pepper";"Ghor Safi";21.6;416.2;195.3;290.5;313.5
+"Area";"Winter";"Broad beans";"Amman";0.0;320.1;205.6;286.0;296.8
+"Area";"Winter";"Broad beans";"Balqa";224.9;683.2;539.6;750.5;778.9
+"Area";"Winter";"Broad beans";"Zarqa";150.0;392.7;466.6;449.3;466.3
+"Area";"Winter";"Broad beans";"Madaba";0.0;0.0;448.0;623.1;646.6
+"Area";"Winter";"Broad beans";"Irbid";192.1;2507.9;2298.4;2152.9;2234.4
+"Area";"Winter";"Broad beans";"Mafraq";194.0;110.0;266.0;369.9;383.9
+"Area";"Winter";"Broad beans";"Jarash";15.0;516.1;583.5;811.6;842.3
+"Area";"Winter";"Broad beans";"Ajloun";152.9;238.4;321.0;446.4;394.3
+"Area";"Winter";"Broad beans";"Karak";0.0;12.0;210.0;292.1;303.1
+"Area";"Winter";"Broad beans";"Tafiela";0.0;48.8;95.2;132.4;137.4
+"Area";"Winter";"Broad beans";"Ma'an";55.0;0.0;42.0;58.4;60.6
+"Area";"Winter";"Broad beans";"Aqaba";0.0;290.7;959.4;1334.3;1384.8
+"Area";"Winter";"Broad beans";"Barn North";584.3;217.1;504.0;700.9;743.6
+"Area";"Winter";"Broad beans";"Deir Alla";1015.8;625.0;884.7;1230.5;1293.3
+"Area";"Winter";"Broad beans";"Barn South";748.3;191.4;462.0;642.5;691.1
+"Area";"Winter";"Broad beans";"Ghor Safi";445.3;72.0;241.9;336.4;358.9
+"Area";"Winter";"String beans";"Amman";0.0;88.5;33.3;43.7;30.0
+"Area";"Winter";"String beans";"Balqa";0.0;206.2;52.1;68.4;47.0
+"Area";"Winter";"String beans";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"String beans";"Madaba";0.0;0.0;2.0;2.7;1.8
+"Area";"Winter";"String beans";"Irbid";0.0;0.0;94.9;109.2;75.0
+"Area";"Winter";"String beans";"Mafraq";0.0;0.0;2.4;3.1;2.2
+"Area";"Winter";"String beans";"Jarash";0.0;66.5;19.5;25.6;17.6
+"Area";"Winter";"String beans";"Ajloun";0.0;0.0;7.8;10.3;7.0
+"Area";"Winter";"String beans";"Karak";0.0;6.0;47.6;62.6;43.0
+"Area";"Winter";"String beans";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"String beans";"Ma'an";0.0;400.0;113.7;149.4;102.6
+"Area";"Winter";"String beans";"Aqaba";0.0;0.0;2.0;2.7;1.8
+"Area";"Winter";"String beans";"Barn North";254.5;40.5;512.2;673.2;462.3
+"Area";"Winter";"String beans";"Deir Alla";311.0;476.6;970.3;1275.2;875.8
+"Area";"Winter";"String beans";"Barn South";66.5;167.1;198.2;260.6;178.9
+"Area";"Winter";"String beans";"Ghor Safi";459.8;200.6;1483.2;2924.1;2008.1
+"Area";"Winter";"Peas";"Amman";0.0;206.6;133.7;222.6;222.7
+"Area";"Winter";"Peas";"Balqa";0.0;328.7;148.6;247.3;247.4
+"Area";"Winter";"Peas";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Peas";"Madaba";0.0;0.0;94.0;156.4;156.5
+"Area";"Winter";"Peas";"Irbid";230.8;1736.2;439.0;456.7;457.0
+"Area";"Winter";"Peas";"Mafraq";40.0;0.0;4.2;7.0;7.0
+"Area";"Winter";"Peas";"Jarash";5.0;195.5;144.7;240.9;241.0
+"Area";"Winter";"Peas";"Ajloun";0.0;164.5;135.8;226.1;226.2
+"Area";"Winter";"Peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Peas";"Barn North";140.0;40.0;67.8;112.9;112.9
+"Area";"Winter";"Peas";"Deir Alla";0.0;99.2;24.7;41.1;41.1
+"Area";"Winter";"Peas";"Barn South";0.0;0.0;8.5;14.2;14.2
+"Area";"Winter";"Peas";"Ghor Safi";0.0;0.0;9.2;15.3;15.3
+"Area";"Winter";"Cow-peas";"Amman";0.0;0.0;163.1;168.4;176.2
+"Area";"Winter";"Cow-peas";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Irbid";0.0;0.0;38.0;39.3;41.1
+"Area";"Winter";"Cow-peas";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Barn North";0.0;0.0;6.3;6.5;6.8
+"Area";"Winter";"Cow-peas";"Deir Alla";0.0;0.0;33.0;34.1;35.6
+"Area";"Winter";"Cow-peas";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Cow-peas";"Ghor Safi";0.0;0.0;48.0;49.5;51.8
+"Area";"Winter";"Jew's mallow";"Amman";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Jew's mallow";"Barn North";163.2;0.0;492.9;311.1;440.3
+"Area";"Winter";"Jew's mallow";"Deir Alla";0.0;39.7;265.9;167.8;237.5
+"Area";"Winter";"Jew's mallow";"Barn South";0.0;0.0;204.4;129.0;182.5
+"Area";"Winter";"Jew's mallow";"Ghor Safi";428.1;350.3;515.5;325.3;460.5
+"Area";"Winter";"Okra";"Amman";0.0;0.0;77.1;118.1;113.3
+"Area";"Winter";"Okra";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Irbid";0.0;368.8;144.8;168.6;161.7
+"Area";"Winter";"Okra";"Mafraq";0.0;0.0;0.3;0.4;0.4
+"Area";"Winter";"Okra";"Jarash";0.0;156.4;101.1;154.9;148.6
+"Area";"Winter";"Okra";"Ajloun";0.0;0.0;6.4;9.8;9.4
+"Area";"Winter";"Okra";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Okra";"Aqaba";0.0;0.0;0.2;0.2;0.2
+"Area";"Winter";"Okra";"Barn North";0.0;16.0;314.2;481.5;461.8
+"Area";"Winter";"Okra";"Deir Alla";69.7;138.9;171.0;262.0;251.3
+"Area";"Winter";"Okra";"Barn South";0.0;20.0;25.4;39.0;37.4
+"Area";"Winter";"Okra";"Ghor Safi";0.0;0.0;150.7;230.9;221.5
+"Area";"Winter";"Lettuce";"Amman";3090.0;690.7;1494.6;1368.6;1342.2
+"Area";"Winter";"Lettuce";"Balqa";0.0;100.4;26.8;22.9;22.4
+"Area";"Winter";"Lettuce";"Zarqa";208.0;108.4;416.6;355.2;348.3
+"Area";"Winter";"Lettuce";"Madaba";0.0;0.0;11.4;9.7;9.6
+"Area";"Winter";"Lettuce";"Irbid";0.0;92.8;59.5;457.9;46.5
+"Area";"Winter";"Lettuce";"Mafraq";205.0;150.0;343.9;293.2;287.6
+"Area";"Winter";"Lettuce";"Jarash";78.0;176.6;555.9;473.9;464.8
+"Area";"Winter";"Lettuce";"Ajloun";0.0;0.0;13.6;11.6;11.4
+"Area";"Winter";"Lettuce";"Karak";0.0;20.0;6.7;5.7;5.6
+"Area";"Winter";"Lettuce";"Tafiela";0.0;0.0;2.4;2.1;2.0
+"Area";"Winter";"Lettuce";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Lettuce";"Aqaba";0.0;172.5;28.6;24.4;24.0
+"Area";"Winter";"Lettuce";"Barn North";262.2;1452.8;1177.2;838.1;951.4
+"Area";"Winter";"Lettuce";"Deir Alla";2226.3;1329.3;3397.4;2737.3;2840.4
+"Area";"Winter";"Lettuce";"Barn South";907.9;619.0;811.7;405.5;548.1
+"Area";"Winter";"Lettuce";"Ghor Safi";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Amman";0.0;0.0;53.2;43.5;77.0
+"Area";"Winter";"Sweet melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Zarqa";140.0;0.0;456.6;373.6;660.7
+"Area";"Winter";"Sweet melon";"Madaba";0.0;569.3;560.0;458.2;810.3
+"Area";"Winter";"Sweet melon";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Mafraq";0.0;0.0;347.8;365.9;647.0
+"Area";"Winter";"Sweet melon";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Tafiela";0.0;0.0;11.2;9.1;16.1
+"Area";"Winter";"Sweet melon";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Sweet melon";"Aqaba";0.0;0.0;74.1;60.7;107.3
+"Area";"Winter";"Sweet melon";"Barn North";0.0;7.0;325.1;266.0;470.3
+"Area";"Winter";"Sweet melon";"Deir Alla";0.0;0.0;37.9;31.0;54.9
+"Area";"Winter";"Sweet melon";"Barn South";35.0;0.0;17.4;14.3;25.2
+"Area";"Winter";"Sweet melon";"Ghor Safi";0.0;52.5;875.0;716.0;1266.2
+"Area";"Winter";"Water melon";"Amman";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Zarqa";0.0;0.0;62.1;68.4;82.4
+"Area";"Winter";"Water melon";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Irbid";0.0;294.7;30.0;33.0;39.8
+"Area";"Winter";"Water melon";"Mafraq";0.0;0.0;155.1;212.0;255.3
+"Area";"Winter";"Water melon";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Karak";0.0;0.0;7.5;8.2;9.9
+"Area";"Winter";"Water melon";"Tafiela";0.0;0.0;3.6;3.9;4.7
+"Area";"Winter";"Water melon";"Ma'an";0.0;520.0;110.9;122.2;147.2
+"Area";"Winter";"Water melon";"Aqaba";500.0;6030.6;1267.3;1397.1;1682.8
+"Area";"Winter";"Water melon";"Barn North";0.0;10.0;1.3;1.5;1.8
+"Area";"Winter";"Water melon";"Deir Alla";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Water melon";"Ghor Safi";0.0;60.8;268.1;295.5;356.0
+"Area";"Winter";"Spinach";"Amman";150.0;0.0;103.5;108.1;80.9
+"Area";"Winter";"Spinach";"Balqa";0.0;66.9;302.4;315.9;236.3
+"Area";"Winter";"Spinach";"Zarqa";30.0;42.0;736.4;708.3;529.9
+"Area";"Winter";"Spinach";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Spinach";"Irbid";0.0;21.6;67.5;68.5;51.2
+"Area";"Winter";"Spinach";"Mafraq";235.0;520.0;776.2;999.8;747.9
+"Area";"Winter";"Spinach";"Jarash";0.0;0.0;0.4;0.4;0.3
+"Area";"Winter";"Spinach";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Spinach";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Spinach";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Spinach";"Ma'an";0.0;5.0;2.4;2.5;1.9
+"Area";"Winter";"Spinach";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Spinach";"Barn North";0.0;202.3;232.4;242.7;181.5
+"Area";"Winter";"Spinach";"Deir Alla";0.0;62.8;84.3;88.1;65.9
+"Area";"Winter";"Spinach";"Barn South";519.1;0.0;319.2;333.3;249.3
+"Area";"Winter";"Spinach";"Ghor Safi";0.0;185.6;239.6;250.2;187.2
+"Area";"Winter";"Onion green";"Amman";830.2;236.3;135.5;206.5;124.6
+"Area";"Winter";"Onion green";"Balqa";0.0;0.0;1.8;2.8;1.7
+"Area";"Winter";"Onion green";"Zarqa";110.7;300.8;60.0;91.4;55.1
+"Area";"Winter";"Onion green";"Madaba";0.0;0.0;70.0;106.7;64.3
+"Area";"Winter";"Onion green";"Irbid";0.0;1691.2;750.3;780.0;470.5
+"Area";"Winter";"Onion green";"Mafraq";90.0;160.0;41.9;63.9;38.6
+"Area";"Winter";"Onion green";"Jarash";0.0;48.2;11.4;17.3;10.5
+"Area";"Winter";"Onion green";"Ajloun";0.0;119.3;114.3;174.3;105.2
+"Area";"Winter";"Onion green";"Karak";0.0;0.0;4.5;6.8;4.1
+"Area";"Winter";"Onion green";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Onion green";"Ma'an";0.0;90.0;13.5;20.5;12.4
+"Area";"Winter";"Onion green";"Aqaba";0.0;40.0;2.6;146.7;2.4
+"Area";"Winter";"Onion green";"Barn North";585.4;331.9;283.9;398.5;261.1
+"Area";"Winter";"Onion green";"Deir Alla";69.7;0.0;126.3;117.6;116.1
+"Area";"Winter";"Onion green";"Barn South";14.0;0.0;38.5;58.6;35.4
+"Area";"Winter";"Onion green";"Ghor Safi";0.0;384.4;223.6;341.0;205.7
+"Area";"Winter";"Onion dry";"Amman";370.0;1316.3;1455.3;1670.0;1641.3
+"Area";"Winter";"Onion dry";"Balqa";19.9;101.2;67.6;93.1;91.5
+"Area";"Winter";"Onion dry";"Zarqa";150.0;0.0;7.3;10.1;9.9
+"Area";"Winter";"Onion dry";"Madaba";0.0;3036.0;0.0;0.0;0.0
+"Area";"Winter";"Onion dry";"Irbid";6028.7;2234.4;4610.8;5502.7;5408.2
+"Area";"Winter";"Onion dry";"Mafraq";859.8;260.0;0.0;0.0;0.0
+"Area";"Winter";"Onion dry";"Jarash";0.0;0.0;16.1;22.1;21.7
+"Area";"Winter";"Onion dry";"Ajloun";45.9;812.8;81.3;112.0;110.1
+"Area";"Winter";"Onion dry";"Karak";4.9;0.0;0.0;0.0;0.0
+"Area";"Winter";"Onion dry";"Tafiela";200.0;366.1;0.0;0.0;0.0
+"Area";"Winter";"Onion dry";"Ma'an";650.0;225.0;1022.0;1407.4;1383.2
+"Area";"Winter";"Onion dry";"Aqaba";0.0;1090.0;1237.2;1703.7;1674.4
+"Area";"Winter";"Onion dry";"Barn North";261.5;338.8;494.1;680.4;668.7
+"Area";"Winter";"Onion dry";"Deir Alla";2391.1;1331.1;1940.8;2732.0;2685.0
+"Area";"Winter";"Onion dry";"Barn South";20.0;266.2;336.9;463.9;455.9
+"Area";"Winter";"Onion dry";"Ghor Safi";7002.8;4031.0;4954.5;6822.5;6705.3
+"Area";"Winter";"Snake cucumber";"Amman";0.0;0.0;0.7;0.8;1.1
+"Area";"Winter";"Snake cucumber";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Irbid";0.0;1738.7;398.0;416.3;550.0
+"Area";"Winter";"Snake cucumber";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Tafiela";0.0;16.3;4.1;4.6;6.1
+"Area";"Winter";"Snake cucumber";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Barn North";0.0;0.0;2.5;2.9;3.8
+"Area";"Winter";"Snake cucumber";"Deir Alla";0.0;0.0;1.1;1.2;1.6
+"Area";"Winter";"Snake cucumber";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Snake cucumber";"Ghor Safi";0.0;0.0;0.3;0.3;0.4
+"Area";"Winter";"Turnip";"Amman";0.0;0.0;21.4;29.3;19.3
+"Area";"Winter";"Turnip";"Balqa";0.0;0.0;0.1;0.1;0.0
+"Area";"Winter";"Turnip";"Zarqa";696.2;163.2;476.7;430.1;282.8
+"Area";"Winter";"Turnip";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Irbid";0.0;0.0;15.6;79.8;14.1
+"Area";"Winter";"Turnip";"Mafraq";0.0;0.0;40.7;55.9;36.8
+"Area";"Winter";"Turnip";"Jarash";0.0;147.4;21.9;30.0;19.7
+"Area";"Winter";"Turnip";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Turnip";"Barn North";624.5;32.5;154.8;183.8;139.7
+"Area";"Winter";"Turnip";"Deir Alla";0.0;231.5;113.8;139.5;102.7
+"Area";"Winter";"Turnip";"Barn South";0.0;0.0;12.4;17.1;11.2
+"Area";"Winter";"Turnip";"Ghor Safi";0.0;0.0;6.4;8.8;5.8
+"Area";"Winter";"Carrot";"Amman";0.0;819.8;132.5;104.1;67.8
+"Area";"Winter";"Carrot";"Balqa";0.0;0.0;30.9;27.8;18.1
+"Area";"Winter";"Carrot";"Zarqa";121.3;31.6;334.0;299.9;195.1
+"Area";"Winter";"Carrot";"Madaba";0.0;0.0;6.6;5.9;3.9
+"Area";"Winter";"Carrot";"Irbid";0.0;89.9;771.3;1363.0;573.6
+"Area";"Winter";"Carrot";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Jarash";0.0;73.7;4.4;3.9;2.6
+"Area";"Winter";"Carrot";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Karak";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Carrot";"Barn North";201.3;263.8;186.2;106.4;108.8
+"Area";"Winter";"Carrot";"Deir Alla";2338.2;2208.9;1192.8;919.0;813.1
+"Area";"Winter";"Carrot";"Barn South";432.6;259.3;175.2;95.6;102.4
+"Area";"Winter";"Carrot";"Ghor Safi";3.3;0.0;0.6;0.5;0.3
+"Area";"Winter";"Parsley";"Amman";0.0;0.0;23.3;27.8;19.8
+"Area";"Winter";"Parsley";"Balqa";0.0;0.0;0.0;0.1;0.0
+"Area";"Winter";"Parsley";"Zarqa";523.5;51.7;242.1;289.8;206.6
+"Area";"Winter";"Parsley";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Parsley";"Irbid";0.0;0.0;1.9;2.0;1.4
+"Area";"Winter";"Parsley";"Mafraq";160.0;480.0;339.1;391.4;279.0
+"Area";"Winter";"Parsley";"Jarash";0.0;48.2;35.1;42.0;29.9
+"Area";"Winter";"Parsley";"Ajloun";0.0;0.0;0.6;0.7;0.5
+"Area";"Winter";"Parsley";"Karak";0.0;0.0;0.3;0.3;0.2
+"Area";"Winter";"Parsley";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Parsley";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Parsley";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Parsley";"Barn North";67.1;0.0;57.8;69.2;49.3
+"Area";"Winter";"Parsley";"Deir Alla";68.6;0.0;18.4;22.0;15.7
+"Area";"Winter";"Parsley";"Barn South";788.6;281.6;1584.4;1896.7;1352.3
+"Area";"Winter";"Parsley";"Ghor Safi";0.0;0.0;0.5;0.6;0.4
+"Area";"Winter";"Radish";"Amman";0.0;113.3;305.9;222.5;187.9
+"Area";"Winter";"Radish";"Balqa";0.0;149.3;217.2;158.0;133.4
+"Area";"Winter";"Radish";"Zarqa";0.0;601.3;675.6;491.4;414.9
+"Area";"Winter";"Radish";"Madaba";0.0;0.0;56.7;41.2;34.8
+"Area";"Winter";"Radish";"Irbid";0.0;30.0;44.7;25.0;21.1
+"Area";"Winter";"Radish";"Mafraq";0.0;0.0;32.5;23.6;20.0
+"Area";"Winter";"Radish";"Jarash";143.4;96.3;256.7;186.7;157.7
+"Area";"Winter";"Radish";"Ajloun";0.0;0.0;55.4;40.3;34.0
+"Area";"Winter";"Radish";"Karak";0.0;0.0;1.2;0.9;0.8
+"Area";"Winter";"Radish";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Radish";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Radish";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Radish";"Barn North";255.0;181.1;386.3;281.0;237.3
+"Area";"Winter";"Radish";"Deir Alla";136.5;122.4;464.7;338.0;285.4
+"Area";"Winter";"Radish";"Barn South";20.0;20.0;238.2;173.2;146.3
+"Area";"Winter";"Radish";"Ghor Safi";3.3;0.0;1.5;1.1;0.9
+"Area";"Winter";"Other Vegetables";"Amman";2756.8;2440.8;2827.3;2328.1;2750.6
+"Area";"Winter";"Other Vegetables";"Balqa";0.0;143.8;76.1;85.5;101.0
+"Area";"Winter";"Other Vegetables";"Zarqa";1511.1;820.5;947.5;911.9;1077.4
+"Area";"Winter";"Other Vegetables";"Madaba";0.0;0.0;18.1;20.3;24.0
+"Area";"Winter";"Other Vegetables";"Irbid";74.1;2916.8;926.1;519.9;614.3
+"Area";"Winter";"Other Vegetables";"Mafraq";195.0;265.0;416.6;467.8;552.7
+"Area";"Winter";"Other Vegetables";"Jarash";15.0;165.5;100.7;113.0;133.6
+"Area";"Winter";"Other Vegetables";"Ajloun";0.0;0.0;137.9;154.8;182.9
+"Area";"Winter";"Other Vegetables";"Karak";0.0;15.0;2.7;3.1;3.6
+"Area";"Winter";"Other Vegetables";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Other Vegetables";"Ma'an";0.0;0.0;0.6;0.6;0.7
+"Area";"Winter";"Other Vegetables";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Area";"Winter";"Other Vegetables";"Barn North";350.0;494.8;401.1;450.3;532.1
+"Area";"Winter";"Other Vegetables";"Deir Alla";1510.3;813.5;324.0;346.5;409.3
+"Area";"Winter";"Other Vegetables";"Barn South";2630.5;948.9;1018.9;972.5;1149.0
+"Area";"Winter";"Other Vegetables";"Ghor Safi";33.3;19.7;19.7;22.1;26.2
+"Production";"Summer";"Tomatoes";"Amman";15011.3;16945.2;20249.4;16085.7;16744.9
+"Production";"Summer";"Tomatoes";"Balqa";620.3;7208.6;1125.0;893.7;930.3
+"Production";"Summer";"Tomatoes";"Zarqa";2547.6;2238.4;2571.4;2042.6;2126.3
+"Production";"Summer";"Tomatoes";"Madaba";10758.9;6546.4;5785.6;4595.9;4784.3
+"Production";"Summer";"Tomatoes";"Irbid";5122.7;2968.9;6359.7;5052.0;5259.1
+"Production";"Summer";"Tomatoes";"Mafraq";49996.5;42524.8;67267.4;53435.9;55627.6
+"Production";"Summer";"Tomatoes";"Jarash";688.5;2081.0;2249.9;1787.3;1860.5
+"Production";"Summer";"Tomatoes";"Ajloun";165.2;1336.9;2249.9;1787.3;1196.1
+"Production";"Summer";"Tomatoes";"Karak";22317.1;6191.4;8678.3;6893.9;7176.4
+"Production";"Summer";"Tomatoes";"Tafiela";7000.4;6466.0;8035.5;6383.2;6644.8
+"Production";"Summer";"Tomatoes";"Ma'an";26897.5;29834.3;29435.2;23382.7;24340.8
+"Production";"Summer";"Tomatoes";"Aqaba";17212.0;80864.0;49337.9;39193.0;40799.1
+"Production";"Summer";"Tomatoes";"Barn North";12816.9;19952.6;21685.7;17226.7;17932.6
+"Production";"Summer";"Tomatoes";"Deir Alla";45151.5;56341.7;52070.0;41363.3;43058.3
+"Production";"Summer";"Tomatoes";"Barn South";6976.1;8493.1;8035.5;6383.2;6644.8
+"Production";"Summer";"Tomatoes";"Ghor Safi";25336.8;28635.8;36320.4;28852.2;30566.1
+"Production";"Summer";"Squash";"Amman";11156.0;10704.1;9047.4;9433.5;7660.4
+"Production";"Summer";"Squash";"Balqa";760.8;3719.3;2847.1;2968.6;2410.6
+"Production";"Summer";"Squash";"Zarqa";11375.9;6129.8;3269.1;3408.6;2767.9
+"Production";"Summer";"Squash";"Madaba";0.0;0.0;399.5;416.5;338.2
+"Production";"Summer";"Squash";"Irbid";4656.5;3280.3;3144.1;3278.3;2662.1
+"Production";"Summer";"Squash";"Mafraq";3279.0;2696.3;1996.6;2081.8;1690.5
+"Production";"Summer";"Squash";"Jarash";1886.1;1533.5;1275.1;1329.5;1079.6
+"Production";"Summer";"Squash";"Ajloun";0.0;0.0;163.0;170.0;138.0
+"Production";"Summer";"Squash";"Karak";0.0;0.0;579.5;604.3;490.7
+"Production";"Summer";"Squash";"Tafiela";0.0;1164.3;255.9;266.8;216.6
+"Production";"Summer";"Squash";"Ma'an";0.0;2643.6;319.6;333.3;270.6
+"Production";"Summer";"Squash";"Aqaba";0.0;0.0;14.0;14.6;11.9
+"Production";"Summer";"Squash";"Barn North";229.6;759.8;2483.5;2589.5;2102.8
+"Production";"Summer";"Squash";"Deir Alla";2423.9;6915.1;6655.7;6939.7;5635.3
+"Production";"Summer";"Squash";"Barn South";6633.3;5626.9;6837.7;7129.5;5789.5
+"Production";"Summer";"Squash";"Ghor Safi";1660.7;3014.7;1532.5;1597.9;1297.5
+"Production";"Summer";"Eggplants";"Amman";1504.8;1575.4;1984.3;2084.9;1923.1
+"Production";"Summer";"Eggplants";"Balqa";0.0;1073.6;554.6;582.7;537.4
+"Production";"Summer";"Eggplants";"Zarqa";426.0;1591.1;2690.1;2826.5;2607.1
+"Production";"Summer";"Eggplants";"Madaba";4781.7;0.0;3005.6;3158.1;2912.9
+"Production";"Summer";"Eggplants";"Irbid";0.0;978.8;310.4;326.1;300.8
+"Production";"Summer";"Eggplants";"Mafraq";794.2;560.0;1254.8;1318.4;1216.1
+"Production";"Summer";"Eggplants";"Jarash";268.5;1400.2;1209.0;1270.3;1171.7
+"Production";"Summer";"Eggplants";"Ajloun";0.0;0.0;98.8;103.8;95.7
+"Production";"Summer";"Eggplants";"Karak";14.0;646.8;419.9;441.2;407.0
+"Production";"Summer";"Eggplants";"Tafiela";0.0;0.0;16.9;17.7;16.3
+"Production";"Summer";"Eggplants";"Ma'an";0.0;0.0;4.9;5.1;4.7
+"Production";"Summer";"Eggplants";"Aqaba";0.0;0.0;92.2;96.8;89.3
+"Production";"Summer";"Eggplants";"Barn North";3106.8;5876.4;4406.5;4630.0;4270.5
+"Production";"Summer";"Eggplants";"Deir Alla";8516.1;5835.8;6030.6;6336.5;5844.5
+"Production";"Summer";"Eggplants";"Barn South";8942.2;818.6;6054.0;6361.1;5867.2
+"Production";"Summer";"Eggplants";"Ghor Safi";1705.5;3691.0;1058.4;1112.1;1025.8
+"Production";"Summer";"Cucumber";"Amman";1899.1;11814.6;9220.9;10749.0;9837.2
+"Production";"Summer";"Cucumber";"Balqa";573.4;7421.4;10093.6;11766.3;10768.2
+"Production";"Summer";"Cucumber";"Zarqa";0.0;66.5;116.7;136.0;124.5
+"Production";"Summer";"Cucumber";"Madaba";908.7;0.0;2042.1;2380.5;2178.5
+"Production";"Summer";"Cucumber";"Irbid";554.6;3713.4;1175.5;1370.3;1254.1
+"Production";"Summer";"Cucumber";"Mafraq";3850.1;2008.4;3909.1;4556.9;4170.3
+"Production";"Summer";"Cucumber";"Jarash";0.0;963.5;1600.2;1865.4;1707.2
+"Production";"Summer";"Cucumber";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cucumber";"Karak";182.9;151.5;910.9;1061.9;971.8
+"Production";"Summer";"Cucumber";"Tafiela";1912.7;673.7;570.7;665.3;608.9
+"Production";"Summer";"Cucumber";"Ma'an";0.0;120.2;18.5;21.5;19.7
+"Production";"Summer";"Cucumber";"Aqaba";300.0;0.0;20.0;23.3;21.4
+"Production";"Summer";"Cucumber";"Barn North";4923.9;7187.1;2382.8;2777.7;2542.1
+"Production";"Summer";"Cucumber";"Deir Alla";30544.2;25720.0;21529.1;25096.8;22968.0
+"Production";"Summer";"Cucumber";"Barn South";8976.7;6321.2;4142.5;4828.9;4419.3
+"Production";"Summer";"Cucumber";"Ghor Safi";780.2;3471.5;583.4;680.1;622.4
+"Production";"Summer";"Potato";"Amman";438.0;1665.0;1340.1;1597.6;1447.3
+"Production";"Summer";"Potato";"Balqa";0.0;10.5;2.5;3.0;2.7
+"Production";"Summer";"Potato";"Zarqa";0.0;0.0;1879.6;2240.8;2030.0
+"Production";"Summer";"Potato";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Potato";"Irbid";3884.7;6688.0;6978.4;9367.6;7536.6
+"Production";"Summer";"Potato";"Mafraq";389.0;0.0;437.7;521.8;472.8
+"Production";"Summer";"Potato";"Jarash";0.0;0.0;158.1;188.5;170.8
+"Production";"Summer";"Potato";"Ajloun";0.0;0.0;38.9;46.4;42.0
+"Production";"Summer";"Potato";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Potato";"Tafiela";0.0;1581.7;0.0;0.0;0.0
+"Production";"Summer";"Potato";"Ma'an";15300.0;31080.0;17665.1;19969.7;19078.2
+"Production";"Summer";"Potato";"Aqaba";16559.6;15332.0;14314.8;17065.0;15459.9
+"Production";"Summer";"Potato";"Barn North";408.0;0.0;1827.4;2178.5;1973.6
+"Production";"Summer";"Potato";"Deir Alla";2371.1;12509.5;14619.4;17428.1;15788.9
+"Production";"Summer";"Potato";"Barn South";155.0;2582.2;1393.3;1661.0;1504.8
+"Production";"Summer";"Potato";"Ghor Safi";1453.3;0.0;263.9;314.6;285.0
+"Production";"Summer";"Cabbage";"Amman";0.0;1015.3;1492.6;1333.9;1362.3
+"Production";"Summer";"Cabbage";"Balqa";0.0;321.1;290.4;259.5;265.0
+"Production";"Summer";"Cabbage";"Zarqa";15163.9;6255.3;4881.2;4362.2;4455.0
+"Production";"Summer";"Cabbage";"Madaba";0.0;0.0;1047.4;936.1;956.0
+"Production";"Summer";"Cabbage";"Irbid";0.0;449.2;284.5;254.2;259.6
+"Production";"Summer";"Cabbage";"Mafraq";5725.0;2726.0;3154.9;2819.4;2879.5
+"Production";"Summer";"Cabbage";"Jarash";5077.3;0.0;418.3;373.8;381.7
+"Production";"Summer";"Cabbage";"Ajloun";0.0;0.0;58.4;52.2;53.3
+"Production";"Summer";"Cabbage";"Karak";0.0;4930.3;423.8;378.7;386.8
+"Production";"Summer";"Cabbage";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cabbage";"Ma'an";0.0;0.0;108.4;96.9;98.9
+"Production";"Summer";"Cabbage";"Aqaba";0.0;0.0;29.9;26.8;27.3
+"Production";"Summer";"Cabbage";"Barn North";0.0;0.0;302.6;270.5;276.2
+"Production";"Summer";"Cabbage";"Deir Alla";0.0;1182.2;1368.8;1223.3;1249.3
+"Production";"Summer";"Cabbage";"Barn South";1389.0;4354.4;1443.6;1290.1;1317.5
+"Production";"Summer";"Cabbage";"Ghor Safi";0.0;0.0;73.1;65.4;66.7
+"Production";"Summer";"Cauliflower";"Amman";0.0;1152.5;1977.9;2279.5;1809.4
+"Production";"Summer";"Cauliflower";"Balqa";0.0;0.0;1083.8;1249.0;991.4
+"Production";"Summer";"Cauliflower";"Zarqa";16150.1;941.3;7854.4;9051.8;7185.2
+"Production";"Summer";"Cauliflower";"Madaba";0.0;0.0;36.3;41.8;33.2
+"Production";"Summer";"Cauliflower";"Irbid";0.0;0.0;0.8;0.9;0.7
+"Production";"Summer";"Cauliflower";"Mafraq";3435.6;14133.0;5392.0;6214.0;4932.6
+"Production";"Summer";"Cauliflower";"Jarash";3786.5;0.0;709.8;818.0;649.3
+"Production";"Summer";"Cauliflower";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cauliflower";"Karak";48.0;5989.3;686.0;790.5;627.5
+"Production";"Summer";"Cauliflower";"Tafiela";0.0;1384.0;191.6;220.9;175.3
+"Production";"Summer";"Cauliflower";"Ma'an";0.0;2689.6;648.9;747.8;593.6
+"Production";"Summer";"Cauliflower";"Aqaba";0.0;0.0;85.0;98.0;77.8
+"Production";"Summer";"Cauliflower";"Barn North";0.0;0.0;625.5;720.9;572.2
+"Production";"Summer";"Cauliflower";"Deir Alla";0.0;2936.9;497.9;573.8;455.5
+"Production";"Summer";"Cauliflower";"Barn South";2945.2;5125.9;1156.0;1332.2;1057.5
+"Production";"Summer";"Cauliflower";"Ghor Safi";0.0;0.0;54.0;62.2;49.4
+"Production";"Summer";"Hot pepper";"Amman";0.0;236.1;483.2;363.6;360.9
+"Production";"Summer";"Hot pepper";"Balqa";0.0;0.0;234.1;176.2;174.9
+"Production";"Summer";"Hot pepper";"Zarqa";156.0;211.8;251.3;189.1;187.7
+"Production";"Summer";"Hot pepper";"Madaba";0.0;0.0;216.5;162.9;161.7
+"Production";"Summer";"Hot pepper";"Irbid";0.0;428.5;216.4;162.8;161.7
+"Production";"Summer";"Hot pepper";"Mafraq";2268.4;1273.4;3501.6;2634.9;2615.8
+"Production";"Summer";"Hot pepper";"Jarash";196.9;423.0;515.5;387.9;385.1
+"Production";"Summer";"Hot pepper";"Ajloun";0.0;0.0;127.9;96.2;95.5
+"Production";"Summer";"Hot pepper";"Karak";0.0;1743.8;476.9;358.8;356.2
+"Production";"Summer";"Hot pepper";"Tafiela";0.0;0.0;8.8;6.6;6.6
+"Production";"Summer";"Hot pepper";"Ma'an";0.0;35.8;10.1;7.6;7.6
+"Production";"Summer";"Hot pepper";"Aqaba";0.0;0.0;2.8;2.1;2.1
+"Production";"Summer";"Hot pepper";"Barn North";74.0;502.8;1889.5;1421.8;1411.5
+"Production";"Summer";"Hot pepper";"Deir Alla";0.0;1076.4;1914.1;1440.3;1429.9
+"Production";"Summer";"Hot pepper";"Barn South";0.0;0.0;264.6;199.1;197.7
+"Production";"Summer";"Hot pepper";"Ghor Safi";2369.4;2009.9;1313.6;988.5;981.3
+"Production";"Summer";"Sweet pepper";"Amman";234.6;674.8;2537.2;4141.0;4390.0
+"Production";"Summer";"Sweet pepper";"Balqa";0.0;1056.2;655.1;1069.2;1133.4
+"Production";"Summer";"Sweet pepper";"Zarqa";3498.1;2302.2;1422.8;2322.2;2461.8
+"Production";"Summer";"Sweet pepper";"Madaba";0.0;0.0;449.3;733.3;777.4
+"Production";"Summer";"Sweet pepper";"Irbid";2385.0;943.4;1674.9;2733.7;2898.0
+"Production";"Summer";"Sweet pepper";"Mafraq";1391.5;6186.2;7988.7;13038.5;13822.4
+"Production";"Summer";"Sweet pepper";"Jarash";0.0;0.0;309.0;504.4;534.7
+"Production";"Summer";"Sweet pepper";"Ajloun";0.0;0.0;44.9;73.3;77.7
+"Production";"Summer";"Sweet pepper";"Karak";0.0;10569.8;1113.4;1817.2;1926.5
+"Production";"Summer";"Sweet pepper";"Tafiela";0.0;0.0;4.4;7.2;7.7
+"Production";"Summer";"Sweet pepper";"Ma'an";0.0;108.0;11.8;19.3;20.5
+"Production";"Summer";"Sweet pepper";"Aqaba";192.0;0.0;221.7;361.9;383.7
+"Production";"Summer";"Sweet pepper";"Barn North";3172.1;2049.9;3237.6;5284.1;5601.8
+"Production";"Summer";"Sweet pepper";"Deir Alla";12625.3;13161.1;7905.4;12902.6;13678.4
+"Production";"Summer";"Sweet pepper";"Barn South";5841.6;3831.2;1734.6;2831.1;3001.3
+"Production";"Summer";"Sweet pepper";"Ghor Safi";0.0;0.0;305.6;498.7;528.7
+"Production";"Summer";"Broad beans";"Amman";0.0;25.0;27.6;58.5;19.9
+"Production";"Summer";"Broad beans";"Balqa";0.0;0.0;4.9;10.5;3.6
+"Production";"Summer";"Broad beans";"Zarqa";0.0;0.0;12.8;27.0;9.2
+"Production";"Summer";"Broad beans";"Madaba";0.0;1037.4;28.3;60.0;20.4
+"Production";"Summer";"Broad beans";"Irbid";1913.5;962.9;78.9;167.0;56.9
+"Production";"Summer";"Broad beans";"Mafraq";0.0;0.0;1.0;2.2;0.7
+"Production";"Summer";"Broad beans";"Jarash";0.0;0.0;0.9;1.9;0.6
+"Production";"Summer";"Broad beans";"Ajloun";0.0;0.0;20.1;42.6;14.5
+"Production";"Summer";"Broad beans";"Karak";0.0;0.0;2.6;5.6;1.9
+"Production";"Summer";"Broad beans";"Tafiela";57.4;0.0;1.1;2.4;0.8
+"Production";"Summer";"Broad beans";"Ma'an";76.5;120.0;3.0;6.4;2.2
+"Production";"Summer";"Broad beans";"Aqaba";156.0;0.0;136.9;290.0;98.8
+"Production";"Summer";"Broad beans";"Barn North";0.0;0.0;27.4;58.1;19.8
+"Production";"Summer";"Broad beans";"Deir Alla";0.0;106.5;49.1;104.1;35.5
+"Production";"Summer";"Broad beans";"Barn South";34.6;0.0;2.0;4.2;1.4
+"Production";"Summer";"Broad beans";"Ghor Safi";0.0;285.3;44.0;93.1;31.7
+"Production";"Summer";"String beans";"Amman";2015.5;165.5;376.7;509.7;316.4
+"Production";"Summer";"String beans";"Balqa";0.0;0.0;422.7;572.0;355.0
+"Production";"Summer";"String beans";"Zarqa";0.0;0.0;0.0;0.1;0.0
+"Production";"Summer";"String beans";"Madaba";0.0;0.0;61.3;82.9;51.5
+"Production";"Summer";"String beans";"Irbid";0.0;0.0;134.3;181.7;112.8
+"Production";"Summer";"String beans";"Mafraq";966.7;0.0;178.4;241.3;149.8
+"Production";"Summer";"String beans";"Jarash";0.0;93.1;40.8;55.2;34.3
+"Production";"Summer";"String beans";"Ajloun";0.0;0.0;23.0;31.1;19.3
+"Production";"Summer";"String beans";"Karak";0.0;0.0;124.5;168.4;104.5
+"Production";"Summer";"String beans";"Tafiela";0.0;0.0;7.1;9.6;6.0
+"Production";"Summer";"String beans";"Ma'an";609.5;687.5;310.7;420.3;260.9
+"Production";"Summer";"String beans";"Aqaba";0.0;0.0;133.4;180.5;112.0
+"Production";"Summer";"String beans";"Barn North";0.0;294.6;405.5;548.6;340.5
+"Production";"Summer";"String beans";"Deir Alla";192.1;2027.0;584.7;791.2;491.1
+"Production";"Summer";"String beans";"Barn South";0.0;0.0;65.1;88.1;54.7
+"Production";"Summer";"String beans";"Ghor Safi";1132.5;1737.7;775.0;1048.6;650.9
+"Production";"Summer";"Peas";"Amman";0.0;7.9;98.1;179.3;47.9
+"Production";"Summer";"Peas";"Balqa";0.0;0.0;0.6;1.1;0.3
+"Production";"Summer";"Peas";"Zarqa";0.0;0.0;0.2;0.4;0.1
+"Production";"Summer";"Peas";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Irbid";854.5;0.0;93.8;171.5;45.8
+"Production";"Summer";"Peas";"Mafraq";0.0;13.9;9.3;17.1;4.6
+"Production";"Summer";"Peas";"Jarash";0.0;241.5;53.4;97.7;26.1
+"Production";"Summer";"Peas";"Ajloun";30.3;84.2;24.8;45.3;12.1
+"Production";"Summer";"Peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Barn North";0.0;57.7;6.3;11.5;3.1
+"Production";"Summer";"Peas";"Deir Alla";0.0;158.7;20.9;38.3;10.2
+"Production";"Summer";"Peas";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Peas";"Ghor Safi";0.0;0.0;2.7;4.9;1.3
+"Production";"Summer";"Cow-peas";"Amman";0.0;334.4;49.8;47.6;48.9
+"Production";"Summer";"Cow-peas";"Balqa";0.0;0.0;86.8;83.0;85.2
+"Production";"Summer";"Cow-peas";"Zarqa";0.0;94.8;54.5;52.2;53.6
+"Production";"Summer";"Cow-peas";"Madaba";0.0;0.0;0.9;0.9;0.9
+"Production";"Summer";"Cow-peas";"Irbid";9.6;281.9;77.5;74.2;76.2
+"Production";"Summer";"Cow-peas";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Cow-peas";"Barn North";108.7;0.0;121.9;116.6;119.8
+"Production";"Summer";"Cow-peas";"Deir Alla";24.5;0.0;55.6;53.1;54.6
+"Production";"Summer";"Cow-peas";"Barn South";0.0;0.0;3.6;3.5;3.6
+"Production";"Summer";"Cow-peas";"Ghor Safi";448.3;0.0;79.3;75.9;77.9
+"Production";"Summer";"Jew's mallow";"Amman";0.0;0.0;4.1;3.9;3.5
+"Production";"Summer";"Jew's mallow";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Zarqa";399.0;379.1;68.5;65.0;58.5
+"Production";"Summer";"Jew's mallow";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Irbid";0.0;0.0;0.3;0.3;0.2
+"Production";"Summer";"Jew's mallow";"Mafraq";300.0;0.0;32.3;30.6;27.6
+"Production";"Summer";"Jew's mallow";"Jarash";0.0;0.0;0.4;0.4;0.3
+"Production";"Summer";"Jew's mallow";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Jew's mallow";"Barn North";3015.6;704.8;1954.8;1853.4;1668.3
+"Production";"Summer";"Jew's mallow";"Deir Alla";2602.8;3801.1;3076.4;2916.9;2625.7
+"Production";"Summer";"Jew's mallow";"Barn South";654.4;297.6;1919.8;1820.2;1638.5
+"Production";"Summer";"Jew's mallow";"Ghor Safi";18519.3;11315.8;12822.7;12157.8;10943.8
+"Production";"Summer";"Okra";"Amman";269.4;1304.9;856.3;911.0;1029.9
+"Production";"Summer";"Okra";"Balqa";0.0;525.0;66.6;70.8;80.1
+"Production";"Summer";"Okra";"Zarqa";0.0;51.3;7.6;8.1;9.2
+"Production";"Summer";"Okra";"Madaba";0.0;1049.9;93.5;99.5;112.5
+"Production";"Summer";"Okra";"Irbid";1428.2;867.3;794.2;845.0;955.3
+"Production";"Summer";"Okra";"Mafraq";0.0;73.8;20.6;21.9;24.7
+"Production";"Summer";"Okra";"Jarash";0.0;322.6;31.0;33.0;37.3
+"Production";"Summer";"Okra";"Ajloun";9.5;0.0;12.3;13.1;14.8
+"Production";"Summer";"Okra";"Karak";21.8;51.0;33.8;35.9;40.6
+"Production";"Summer";"Okra";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Okra";"Ma'an";0.0;0.0;1.6;1.7;2.0
+"Production";"Summer";"Okra";"Aqaba";0.0;113.5;9.1;9.7;11.0
+"Production";"Summer";"Okra";"Barn North";999.8;892.9;1362.1;1449.1;1638.3
+"Production";"Summer";"Okra";"Deir Alla";860.4;2024.2;1077.5;1146.4;1296.0
+"Production";"Summer";"Okra";"Barn South";0.0;119.9;108.4;115.3;130.4
+"Production";"Summer";"Okra";"Ghor Safi";184.8;78.7;158.7;168.9;190.9
+"Production";"Summer";"Lettuce";"Amman";7435.4;3876.8;4276.3;6507.8;4657.8
+"Production";"Summer";"Lettuce";"Balqa";0.0;1147.4;795.6;1210.8;866.6
+"Production";"Summer";"Lettuce";"Zarqa";5.0;9768.8;3894.6;5927.0;4242.0
+"Production";"Summer";"Lettuce";"Madaba";0.0;0.0;0.9;1.3;1.0
+"Production";"Summer";"Lettuce";"Irbid";0.0;751.7;217.0;330.2;236.3
+"Production";"Summer";"Lettuce";"Mafraq";0.0;525.0;775.3;1179.9;844.5
+"Production";"Summer";"Lettuce";"Jarash";956.2;1355.1;1051.0;1599.4;1144.7
+"Production";"Summer";"Lettuce";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Lettuce";"Karak";0.0;0.0;452.6;688.7;492.9
+"Production";"Summer";"Lettuce";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Lettuce";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Lettuce";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Lettuce";"Barn North";0.0;0.0;960.1;1461.0;1045.7
+"Production";"Summer";"Lettuce";"Deir Alla";4036.7;777.8;4532.4;6897.6;4936.7
+"Production";"Summer";"Lettuce";"Barn South";1942.1;4554.9;1064.8;1620.5;1159.8
+"Production";"Summer";"Lettuce";"Ghor Safi";0.0;0.0;2.6;3.9;2.8
+"Production";"Summer";"Sweet melon";"Amman";197.0;4009.8;3686.8;2638.2;2304.1
+"Production";"Summer";"Sweet melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Sweet melon";"Zarqa";371.0;5735.2;4034.9;2887.3;2521.7
+"Production";"Summer";"Sweet melon";"Madaba";0.0;0.0;1923.3;1376.3;1202.0
+"Production";"Summer";"Sweet melon";"Irbid";0.0;230.8;461.2;330.0;288.2
+"Production";"Summer";"Sweet melon";"Mafraq";613.0;2426.1;5069.3;3627.5;3168.1
+"Production";"Summer";"Sweet melon";"Jarash";0.0;257.9;716.9;513.0;448.0
+"Production";"Summer";"Sweet melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Sweet melon";"Karak";16508.6;14661.9;13548.7;9695.2;8467.5
+"Production";"Summer";"Sweet melon";"Tafiela";5725.8;636.0;3005.0;2150.3;1878.0
+"Production";"Summer";"Sweet melon";"Ma'an";1619.0;4234.8;2767.3;1980.2;1729.5
+"Production";"Summer";"Sweet melon";"Aqaba";570.0;28846.8;14661.9;10491.8;9163.2
+"Production";"Summer";"Sweet melon";"Barn North";115.5;638.4;1420.3;1016.3;887.6
+"Production";"Summer";"Sweet melon";"Deir Alla";0.0;1203.7;301.7;215.9;188.6
+"Production";"Summer";"Sweet melon";"Barn South";800.0;726.0;1792.6;1282.8;1120.3
+"Production";"Summer";"Sweet melon";"Ghor Safi";26210.8;28601.9;24620.4;17617.9;15387.0
+"Production";"Summer";"Water melon";"Amman";1300.0;8689.8;6429.0;4961.9;3319.3
+"Production";"Summer";"Water melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Water melon";"Zarqa";80.0;690.0;1434.1;1106.8;740.4
+"Production";"Summer";"Water melon";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Water melon";"Irbid";0.0;683.0;205.9;158.9;106.3
+"Production";"Summer";"Water melon";"Mafraq";5587.0;4198.6;10030.6;7741.6;5178.7
+"Production";"Summer";"Water melon";"Jarash";0.0;427.4;147.6;114.0;76.2
+"Production";"Summer";"Water melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Water melon";"Karak";11796.2;19320.2;9328.4;7199.7;4816.2
+"Production";"Summer";"Water melon";"Tafiela";0.0;878.7;591.9;456.8;305.6
+"Production";"Summer";"Water melon";"Ma'an";13065.5;13500.0;17152.3;13238.1;8855.6
+"Production";"Summer";"Water melon";"Aqaba";43494.5;30917.4;39220.1;30270.1;20249.2
+"Production";"Summer";"Water melon";"Barn North";2516.7;556.8;793.2;612.2;409.5
+"Production";"Summer";"Water melon";"Deir Alla";0.0;0.0;1.3;1.0;0.7
+"Production";"Summer";"Water melon";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Water melon";"Ghor Safi";6378.9;15931.8;14934.2;11526.2;7710.5
+"Production";"Summer";"Spinach";"Amman";0.0;0.0;40.0;47.2;39.2
+"Production";"Summer";"Spinach";"Balqa";0.0;3574.5;120.8;142.7;118.3
+"Production";"Summer";"Spinach";"Zarqa";766.5;225.0;343.0;405.3;336.0
+"Production";"Summer";"Spinach";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Spinach";"Irbid";280.0;0.0;30.5;36.1;29.9
+"Production";"Summer";"Spinach";"Mafraq";1221.0;0.0;382.2;451.6;374.5
+"Production";"Summer";"Spinach";"Jarash";0.0;0.0;0.2;0.2;0.2
+"Production";"Summer";"Spinach";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Spinach";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Spinach";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Spinach";"Ma'an";0.0;0.0;1.0;1.2;1.0
+"Production";"Summer";"Spinach";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Spinach";"Barn North";469.7;1265.1;142.3;168.1;139.4
+"Production";"Summer";"Spinach";"Deir Alla";0.0;1149.0;55.0;65.0;53.9
+"Production";"Summer";"Spinach";"Barn South";455.2;0.0;178.4;210.8;174.8
+"Production";"Summer";"Spinach";"Ghor Safi";1436.8;204.9;153.1;180.9;150.0
+"Production";"Summer";"Onion green";"Amman";0.0;0.0;63.5;76.8;61.7
+"Production";"Summer";"Onion green";"Balqa";0.0;0.0;0.4;0.5;0.4
+"Production";"Summer";"Onion green";"Zarqa";380.0;8.8;95.2;115.2;92.5
+"Production";"Summer";"Onion green";"Madaba";0.0;0.0;46.2;55.9;44.9
+"Production";"Summer";"Onion green";"Irbid";915.9;789.3;433.5;524.5;421.2
+"Production";"Summer";"Onion green";"Mafraq";1009.3;756.1;185.2;224.1;179.9
+"Production";"Summer";"Onion green";"Jarash";0.0;35.3;13.9;16.8;13.5
+"Production";"Summer";"Onion green";"Ajloun";0.0;276.7;37.6;45.5;36.6
+"Production";"Summer";"Onion green";"Karak";0.0;0.0;4.5;5.5;4.4
+"Production";"Summer";"Onion green";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Onion green";"Ma'an";0.0;528.0;54.2;65.6;52.7
+"Production";"Summer";"Onion green";"Aqaba";0.0;0.0;96.7;117.0;94.0
+"Production";"Summer";"Onion green";"Barn North";1020.1;0.0;213.0;257.7;206.9
+"Production";"Summer";"Onion green";"Deir Alla";0.0;0.0;308.6;373.4;299.9
+"Production";"Summer";"Onion green";"Barn South";57.8;564.5;69.0;83.5;67.0
+"Production";"Summer";"Onion green";"Ghor Safi";105.0;0.0;27.8;33.6;27.0
+"Production";"Summer";"Onion dry";"Amman";0.0;2715.3;3715.8;4276.3;3924.2
+"Production";"Summer";"Onion dry";"Balqa";0.0;156.7;169.3;194.8;178.8
+"Production";"Summer";"Onion dry";"Zarqa";0.0;0.0;389.9;448.7;411.8
+"Production";"Summer";"Onion dry";"Madaba";2987.5;0.0;882.5;1015.6;932.0
+"Production";"Summer";"Onion dry";"Irbid";6269.1;7770.8;6827.8;7857.6;7210.8
+"Production";"Summer";"Onion dry";"Mafraq";232.5;945.0;2972.6;3421.0;3139.4
+"Production";"Summer";"Onion dry";"Jarash";0.0;0.0;129.9;149.5;137.2
+"Production";"Summer";"Onion dry";"Ajloun";0.0;1485.4;329.8;379.5;348.3
+"Production";"Summer";"Onion dry";"Karak";117.0;45.5;4.7;0.0;5.0
+"Production";"Summer";"Onion dry";"Tafiela";1680.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Onion dry";"Ma'an";3340.0;2694.6;6967.1;8018.0;7357.9
+"Production";"Summer";"Onion dry";"Aqaba";11440.0;5375.0;10961.6;12615.0;11576.4
+"Production";"Summer";"Onion dry";"Barn North";726.6;0.0;2694.0;3100.3;2845.1
+"Production";"Summer";"Onion dry";"Deir Alla";629.4;854.5;7107.1;8179.1;7505.8
+"Production";"Summer";"Onion dry";"Barn South";0.0;386.0;1243.6;1431.1;1313.3
+"Production";"Summer";"Onion dry";"Ghor Safi";1308.7;1515.5;2069.2;2381.3;2185.2
+"Production";"Summer";"Snake cucumber";"Amman";2207.3;1236.2;1767.8;1868.0;1236.2
+"Production";"Summer";"Snake cucumber";"Balqa";0.0;0.0;3.4;3.6;2.4
+"Production";"Summer";"Snake cucumber";"Zarqa";0.0;0.0;0.5;0.6;0.4
+"Production";"Summer";"Snake cucumber";"Madaba";0.0;1939.3;231.2;244.3;161.7
+"Production";"Summer";"Snake cucumber";"Irbid";2116.0;2422.5;2522.4;2665.4;1763.9
+"Production";"Summer";"Snake cucumber";"Mafraq";0.0;92.6;22.9;24.2;16.0
+"Production";"Summer";"Snake cucumber";"Jarash";0.0;0.0;0.1;0.1;0.1
+"Production";"Summer";"Snake cucumber";"Ajloun";0.0;310.6;36.8;38.8;25.7
+"Production";"Summer";"Snake cucumber";"Karak";285.8;1223.1;196.6;207.8;137.5
+"Production";"Summer";"Snake cucumber";"Tafiela";0.0;0.0;0.5;0.6;0.4
+"Production";"Summer";"Snake cucumber";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Snake cucumber";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Snake cucumber";"Barn North";0.0;12.0;165.1;174.4;115.4
+"Production";"Summer";"Snake cucumber";"Deir Alla";0.0;0.0;95.8;101.2;67.0
+"Production";"Summer";"Snake cucumber";"Barn South";116.5;289.5;213.0;225.1;149.0
+"Production";"Summer";"Snake cucumber";"Ghor Safi";231.8;555.6;634.1;670.0;443.4
+"Production";"Summer";"Turnip";"Amman";0.0;0.0;0.7;0.3;0.4
+"Production";"Summer";"Turnip";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Zarqa";0.0;24.0;32.0;12.1;16.2
+"Production";"Summer";"Turnip";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Irbid";0.0;0.0;2.1;0.8;1.0
+"Production";"Summer";"Turnip";"Mafraq";0.0;0.0;1.0;0.4;0.5
+"Production";"Summer";"Turnip";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Ma'an";0.0;0.0;1.0;0.4;0.5
+"Production";"Summer";"Turnip";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Turnip";"Barn North";0.0;389.8;16.6;6.3;8.4
+"Production";"Summer";"Turnip";"Deir Alla";0.0;1071.1;8.7;3.3;4.4
+"Production";"Summer";"Turnip";"Barn South";0.0;0.0;4.3;1.6;2.2
+"Production";"Summer";"Turnip";"Ghor Safi";0.0;0.0;0.1;0.0;0.0
+"Production";"Summer";"Carrot";"Amman";0.0;3001.1;3276.0;3122.1;2853.9
+"Production";"Summer";"Carrot";"Balqa";0.0;0.0;146.9;140.0;128.0
+"Production";"Summer";"Carrot";"Zarqa";0.0;437.7;707.0;673.8;615.9
+"Production";"Summer";"Carrot";"Madaba";0.0;0.0;15.2;14.5;13.2
+"Production";"Summer";"Carrot";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Mafraq";0.0;0.0;55.9;53.3;48.7
+"Production";"Summer";"Carrot";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Carrot";"Barn North";0.0;0.0;77.5;73.8;67.5
+"Production";"Summer";"Carrot";"Deir Alla";1565.1;2050.2;2319.3;2210.3;2020.5
+"Production";"Summer";"Carrot";"Barn South";1141.9;966.4;403.8;384.8;351.8
+"Production";"Summer";"Carrot";"Ghor Safi";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Amman";0.0;0.0;81.7;117.7;86.0
+"Production";"Summer";"Parsley";"Balqa";0.0;0.0;2.2;3.2;2.4
+"Production";"Summer";"Parsley";"Zarqa";3512.2;30.0;1397.4;2014.0;1471.4
+"Production";"Summer";"Parsley";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Irbid";0.0;0.0;0.1;0.1;0.1
+"Production";"Summer";"Parsley";"Mafraq";417.0;2519.8;1196.3;1724.2;1259.7
+"Production";"Summer";"Parsley";"Jarash";0.0;149.3;13.4;19.3;14.1
+"Production";"Summer";"Parsley";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Parsley";"Aqaba";0.0;0.0;41.2;59.4;43.4
+"Production";"Summer";"Parsley";"Barn North";268.4;0.0;36.0;51.9;37.9
+"Production";"Summer";"Parsley";"Deir Alla";778.2;0.0;80.6;116.1;84.8
+"Production";"Summer";"Parsley";"Barn South";1870.0;1120.9;697.8;1005.8;734.8
+"Production";"Summer";"Parsley";"Ghor Safi";56.5;0.0;5.9;8.5;6.2
+"Production";"Summer";"Radish";"Amman";258.4;2931.2;91.5;80.8;56.1
+"Production";"Summer";"Radish";"Balqa";0.0;0.0;8.4;7.4;5.2
+"Production";"Summer";"Radish";"Zarqa";1868.2;835.6;789.9;697.3;484.0
+"Production";"Summer";"Radish";"Madaba";0.0;0.0;5.5;4.9;3.4
+"Production";"Summer";"Radish";"Irbid";0.0;132.0;4.9;4.3;3.0
+"Production";"Summer";"Radish";"Mafraq";0.0;0.0;3.6;3.2;2.2
+"Production";"Summer";"Radish";"Jarash";0.0;0.0;8.9;7.8;5.4
+"Production";"Summer";"Radish";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Radish";"Karak";0.0;0.0;0.9;0.8;0.6
+"Production";"Summer";"Radish";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Radish";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Radish";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Summer";"Radish";"Barn North";0.0;0.0;44.4;39.2;27.2
+"Production";"Summer";"Radish";"Deir Alla";265.6;644.8;89.5;79.0;54.8
+"Production";"Summer";"Radish";"Barn South";0.0;0.0;40.3;35.6;24.7
+"Production";"Summer";"Radish";"Ghor Safi";0.0;0.0;2.2;1.9;1.3
+"Production";"Summer";"Other Vegetables";"Amman";120.5;8073.3;3399.8;4116.0;3221.8
+"Production";"Summer";"Other Vegetables";"Balqa";0.0;0.0;39.8;48.2;37.7
+"Production";"Summer";"Other Vegetables";"Zarqa";78.9;413.4;400.2;484.5;379.3
+"Production";"Summer";"Other Vegetables";"Madaba";0.0;0.0;9.0;10.9;8.6
+"Production";"Summer";"Other Vegetables";"Irbid";7024.2;15309.2;5520.5;6683.4;5231.4
+"Production";"Summer";"Other Vegetables";"Mafraq";278.1;1472.1;1388.6;1681.1;1315.9
+"Production";"Summer";"Other Vegetables";"Jarash";0.0;840.1;605.4;733.0;573.7
+"Production";"Summer";"Other Vegetables";"Ajloun";0.0;165.6;69.0;83.6;65.4
+"Production";"Summer";"Other Vegetables";"Karak";0.0;48.0;40.3;48.8;38.2
+"Production";"Summer";"Other Vegetables";"Tafiela";0.0;0.0;0.1;0.2;26.2
+"Production";"Summer";"Other Vegetables";"Ma'an";0.0;0.0;11.3;13.7;19.6
+"Production";"Summer";"Other Vegetables";"Aqaba";0.0;0.0;15.5;18.8;19.6
+"Production";"Summer";"Other Vegetables";"Barn North";466.7;916.1;405.2;490.6;392.4
+"Production";"Summer";"Other Vegetables";"Deir Alla";171.6;296.2;400.0;484.3;379.1
+"Production";"Summer";"Other Vegetables";"Barn South";670.8;966.5;1236.3;1496.7;1190.1
+"Production";"Summer";"Other Vegetables";"Ghor Safi";21.5;66.2;185.6;224.7;183.1
+"Production";"Winter";"Tomatoes";"Amman";8406.1;15524.4;4853.5;5720.7;5065.7
+"Production";"Winter";"Tomatoes";"Balqa";0.0;819.6;188.0;221.6;196.2
+"Production";"Winter";"Tomatoes";"Zarqa";2260.0;2336.9;2541.0;2995.0;2652.1
+"Production";"Winter";"Tomatoes";"Madaba";20933.0;13965.7;3997.0;4711.2;4171.8
+"Production";"Winter";"Tomatoes";"Irbid";3060.0;1046.7;2855.0;3365.1;2979.8
+"Production";"Winter";"Tomatoes";"Mafraq";1352.5;12112.5;5787.2;6821.2;6040.2
+"Production";"Winter";"Tomatoes";"Jarash";0.0;851.1;13.8;16.3;14.5
+"Production";"Winter";"Tomatoes";"Ajloun";0.0;2203.4;1.4;1.7;1.5
+"Production";"Winter";"Tomatoes";"Karak";23325.1;13285.4;1427.5;1682.6;1489.9
+"Production";"Winter";"Tomatoes";"Tafiela";11610.7;37093.0;3140.5;3701.6;3277.8
+"Production";"Winter";"Tomatoes";"Ma'an";33386.0;10250.0;6004.6;7077.4;6267.1
+"Production";"Winter";"Tomatoes";"Aqaba";46063.2;20661.2;18996.4;22390.4;19826.9
+"Production";"Winter";"Tomatoes";"Barn North";29756.1;20158.7;25406.3;29945.5;26517.0
+"Production";"Winter";"Tomatoes";"Deir Alla";60623.3;108064.3;79110.7;93245.1;82569.3
+"Production";"Winter";"Tomatoes";"Barn South";6695.9;14889.0;9074.1;10695.3;9470.8
+"Production";"Winter";"Tomatoes";"Ghor Safi";81196.5;119528.9;121982.5;143776.6;127315.4
+"Production";"Winter";"Squash";"Amman";4829.0;2502.2;3160.4;3496.9;3074.0
+"Production";"Winter";"Squash";"Balqa";7.5;0.0;109.8;121.5;106.8
+"Production";"Winter";"Squash";"Zarqa";2689.5;842.5;526.0;582.0;511.6
+"Production";"Winter";"Squash";"Madaba";0.0;0.0;48.7;53.9;47.3
+"Production";"Winter";"Squash";"Irbid";0.0;1707.5;436.6;483.1;424.7
+"Production";"Winter";"Squash";"Mafraq";70.0;266.0;53.1;58.8;51.7
+"Production";"Winter";"Squash";"Jarash";0.0;173.4;23.2;25.6;22.5
+"Production";"Winter";"Squash";"Ajloun";0.0;158.9;40.3;44.6;39.2
+"Production";"Winter";"Squash";"Karak";0.0;38.4;180.3;199.5;175.3
+"Production";"Winter";"Squash";"Tafiela";0.0;2563.0;418.2;462.7;406.8
+"Production";"Winter";"Squash";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Squash";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Squash";"Barn North";2858.5;8264.1;5888.6;6515.7;5727.7
+"Production";"Winter";"Squash";"Deir Alla";13294.3;8366.9;13408.3;14836.2;13042.0
+"Production";"Winter";"Squash";"Barn South";14143.0;16100.2;13468.3;14902.6;13100.3
+"Production";"Winter";"Squash";"Ghor Safi";3507.2;1862.1;1768.9;1957.3;1720.6
+"Production";"Winter";"Eggplants";"Amman";559.0;0.0;117.8;146.2;137.7
+"Production";"Winter";"Eggplants";"Balqa";0.0;78.0;384.8;477.7;449.7
+"Production";"Winter";"Eggplants";"Zarqa";2224.7;72.2;537.4;667.1;628.0
+"Production";"Winter";"Eggplants";"Madaba";0.0;4269.4;880.2;1092.7;1028.7
+"Production";"Winter";"Eggplants";"Irbid";0.0;0.0;30.7;38.1;35.9
+"Production";"Winter";"Eggplants";"Mafraq";280.0;420.0;463.8;575.7;542.0
+"Production";"Winter";"Eggplants";"Jarash";0.0;529.9;206.8;256.7;241.7
+"Production";"Winter";"Eggplants";"Ajloun";0.0;0.0;66.8;83.0;78.1
+"Production";"Winter";"Eggplants";"Karak";80.0;260.0;220.2;273.4;257.3
+"Production";"Winter";"Eggplants";"Tafiela";0.0;0.0;79.2;98.3;92.5
+"Production";"Winter";"Eggplants";"Ma'an";0.0;0.0;0.4;0.5;0.5
+"Production";"Winter";"Eggplants";"Aqaba";0.0;0.0;203.6;252.7;237.9
+"Production";"Winter";"Eggplants";"Barn North";2731.4;5311.7;3013.7;3741.3;3522.0
+"Production";"Winter";"Eggplants";"Deir Alla";7552.6;14326.6;10468.3;12995.8;12234.0
+"Production";"Winter";"Eggplants";"Barn South";9144.3;16254.4;15222.0;18897.4;17789.6
+"Production";"Winter";"Eggplants";"Ghor Safi";4724.1;6737.3;3075.9;3818.6;3594.7
+"Production";"Winter";"Cucumber";"Amman";6090.6;4388.0;1499.7;1855.8;1744.0
+"Production";"Winter";"Cucumber";"Balqa";0.0;1542.2;1761.3;2179.6;2048.3
+"Production";"Winter";"Cucumber";"Zarqa";0.0;40.5;1724.6;2134.2;2005.6
+"Production";"Winter";"Cucumber";"Madaba";1022.3;0.0;2617.6;3239.3;3044.1
+"Production";"Winter";"Cucumber";"Irbid";0.0;1972.2;1274.7;1577.5;1482.4
+"Production";"Winter";"Cucumber";"Mafraq";0.0;932.4;94.0;116.3;109.3
+"Production";"Winter";"Cucumber";"Jarash";0.0;0.0;156.2;193.3;181.7
+"Production";"Winter";"Cucumber";"Ajloun";0.0;0.0;106.4;131.6;123.7
+"Production";"Winter";"Cucumber";"Karak";0.0;460.0;1539.9;1905.7;1790.8
+"Production";"Winter";"Cucumber";"Tafiela";0.0;0.0;272.0;336.6;316.3
+"Production";"Winter";"Cucumber";"Ma'an";0.0;39.6;3.4;4.2;4.0
+"Production";"Winter";"Cucumber";"Aqaba";0.0;0.0;1274.7;1577.5;1482.4
+"Production";"Winter";"Cucumber";"Barn North";7068.2;5325.0;8323.2;10299.9;9679.3
+"Production";"Winter";"Cucumber";"Deir Alla";64330.5;32854.3;48214.7;59664.9;56069.9
+"Production";"Winter";"Cucumber";"Barn South";7304.8;12135.3;4799.0;5938.7;5580.8
+"Production";"Winter";"Cucumber";"Ghor Safi";159.8;1978.5;1312.2;1623.9;1526.0
+"Production";"Winter";"Potato";"Amman";0.0;0.0;260.6;376.5;297.1
+"Production";"Winter";"Potato";"Balqa";0.0;12.5;301.6;435.7;343.8
+"Production";"Winter";"Potato";"Zarqa";5265.6;4440.9;5528.7;7987.2;6302.2
+"Production";"Winter";"Potato";"Madaba";0.0;0.0;31.6;45.7;36.1
+"Production";"Winter";"Potato";"Irbid";11474.7;26283.9;8049.7;17686.1;9175.8
+"Production";"Winter";"Potato";"Mafraq";602.0;493.0;1257.8;1817.1;1433.7
+"Production";"Winter";"Potato";"Jarash";1004.0;0.0;131.0;189.3;149.4
+"Production";"Winter";"Potato";"Ajloun";0.0;305.6;32.8;47.4;37.4
+"Production";"Winter";"Potato";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Potato";"Tafiela";0.0;0.0;16.5;23.8;18.8
+"Production";"Winter";"Potato";"Ma'an";15000.0;8400.0;6540.4;9448.7;7455.3
+"Production";"Winter";"Potato";"Aqaba";17414.0;14610.6;12852.4;18567.6;14650.3
+"Production";"Winter";"Potato";"Barn North";24075.5;27653.1;18835.0;24227.5;21469.9
+"Production";"Winter";"Potato";"Deir Alla";28987.2;28521.2;24336.7;32101.5;27741.2
+"Production";"Winter";"Potato";"Barn South";1803.5;6877.3;5450.3;7873.9;6212.8
+"Production";"Winter";"Potato";"Ghor Safi";1327.9;324.9;220.1;317.9;250.9
+"Production";"Winter";"Cabbage";"Amman";1875.0;487.9;2348.2;2672.1;1937.1
+"Production";"Winter";"Cabbage";"Balqa";0.0;195.6;1652.8;1880.8;1363.5
+"Production";"Winter";"Cabbage";"Zarqa";2540.9;9963.2;6198.6;7053.4;5113.4
+"Production";"Winter";"Cabbage";"Madaba";0.0;3643.2;2971.5;3381.4;2451.3
+"Production";"Winter";"Cabbage";"Irbid";0.0;76.2;842.1;958.3;694.7
+"Production";"Winter";"Cabbage";"Mafraq";3295.5;4052.5;1763.9;2007.2;1455.1
+"Production";"Winter";"Cabbage";"Jarash";0.0;0.0;1119.7;1274.1;923.7
+"Production";"Winter";"Cabbage";"Ajloun";0.0;0.0;291.1;331.2;213.3
+"Production";"Winter";"Cabbage";"Karak";133.2;105.6;139.8;159.1;115.3
+"Production";"Winter";"Cabbage";"Tafiela";0.0;3295.3;3268.7;3719.5;2696.5
+"Production";"Winter";"Cabbage";"Ma'an";2575.0;660.0;141.9;161.5;117.1
+"Production";"Winter";"Cabbage";"Aqaba";0.0;1984.3;1141.1;1298.5;941.3
+"Production";"Winter";"Cabbage";"Barn North";996.5;172.4;2600.1;2958.7;2144.9
+"Production";"Winter";"Cabbage";"Deir Alla";8755.7;8072.8;7504.0;8538.9;6159.0
+"Production";"Winter";"Cabbage";"Barn South";4954.8;3242.0;2264.0;2576.3;1875.3
+"Production";"Winter";"Cabbage";"Ghor Safi";134.5;0.0;2971.5;3381.4;2451.3
+"Production";"Winter";"Cauliflower";"Amman";3607.0;5071.0;5073.6;6476.8;5745.8
+"Production";"Winter";"Cauliflower";"Balqa";827.6;11947.6;3316.2;4233.4;3755.6
+"Production";"Winter";"Cauliflower";"Zarqa";14455.2;16406.2;10908.9;13925.9;12354.1
+"Production";"Winter";"Cauliflower";"Madaba";0.0;0.0;20.2;25.8;22.9
+"Production";"Winter";"Cauliflower";"Irbid";0.0;477.4;81.9;104.6;92.8
+"Production";"Winter";"Cauliflower";"Mafraq";782.0;536.0;2564.7;3274.0;2904.5
+"Production";"Winter";"Cauliflower";"Jarash";362.2;4896.0;825.8;1054.2;935.2
+"Production";"Winter";"Cauliflower";"Ajloun";0.0;0.0;11.8;15.1;13.4
+"Production";"Winter";"Cauliflower";"Karak";147.3;114.0;92.0;117.4;104.1
+"Production";"Winter";"Cauliflower";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cauliflower";"Ma'an";460.0;140.0;137.6;175.7;155.9
+"Production";"Winter";"Cauliflower";"Aqaba";0.0;1725.5;592.4;756.2;670.8
+"Production";"Winter";"Cauliflower";"Barn North";708.0;1159.8;1735.2;2215.1;1965.1
+"Production";"Winter";"Cauliflower";"Deir Alla";956.7;2585.9;2016.6;2574.3;2283.8
+"Production";"Winter";"Cauliflower";"Barn South";6885.2;4626.4;5564.5;7103.4;6301.7
+"Production";"Winter";"Cauliflower";"Ghor Safi";129.2;332.9;308.7;394.0;349.5
+"Production";"Winter";"Hot pepper";"Amman";0.0;39.6;49.6;52.6;42.3
+"Production";"Winter";"Hot pepper";"Balqa";0.0;4763.7;763.4;808.9;649.9
+"Production";"Winter";"Hot pepper";"Zarqa";2637.7;343.6;478.7;507.3;407.6
+"Production";"Winter";"Hot pepper";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Hot pepper";"Irbid";0.0;98.4;15.4;16.4;13.1
+"Production";"Winter";"Hot pepper";"Mafraq";76.0;101.9;45.8;48.5;39.0
+"Production";"Winter";"Hot pepper";"Jarash";0.0;0.0;0.7;0.7;0.6
+"Production";"Winter";"Hot pepper";"Ajloun";0.0;0.0;15.6;16.5;13.3
+"Production";"Winter";"Hot pepper";"Karak";63.0;23.0;17.5;18.6;14.9
+"Production";"Winter";"Hot pepper";"Tafiela";0.0;0.0;122.2;129.5;104.1
+"Production";"Winter";"Hot pepper";"Ma'an";0.0;29.0;4.8;5.1;4.1
+"Production";"Winter";"Hot pepper";"Aqaba";0.0;0.0;163.1;172.9;138.9
+"Production";"Winter";"Hot pepper";"Barn North";5670.4;2675.2;3898.1;4130.7;3318.6
+"Production";"Winter";"Hot pepper";"Deir Alla";2499.6;2768.4;3573.9;3787.2;3042.7
+"Production";"Winter";"Hot pepper";"Barn South";317.3;0.0;612.3;648.9;521.3
+"Production";"Winter";"Hot pepper";"Ghor Safi";3917.7;1218.9;2687.3;2847.7;2287.8
+"Production";"Winter";"Sweet pepper";"Amman";0.0;458.8;433.1;644.2;695.1
+"Production";"Winter";"Sweet pepper";"Balqa";0.0;715.9;377.8;561.9;606.2
+"Production";"Winter";"Sweet pepper";"Zarqa";6182.7;1813.4;1020.3;1517.6;1637.4
+"Production";"Winter";"Sweet pepper";"Madaba";0.0;0.0;7.0;10.4;11.3
+"Production";"Winter";"Sweet pepper";"Irbid";1350.0;2450.8;1293.1;1923.5;2075.3
+"Production";"Winter";"Sweet pepper";"Mafraq";80.0;259.0;78.4;116.6;125.8
+"Production";"Winter";"Sweet pepper";"Jarash";51.6;812.5;104.9;156.0;168.3
+"Production";"Winter";"Sweet pepper";"Ajloun";0.0;0.0;89.0;132.4;142.8
+"Production";"Winter";"Sweet pepper";"Karak";82.0;64.5;36.0;53.6;57.8
+"Production";"Winter";"Sweet pepper";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet pepper";"Ma'an";0.0;72.0;8.3;12.4;13.4
+"Production";"Winter";"Sweet pepper";"Aqaba";0.0;1761.0;3232.8;4808.7;5291.9
+"Production";"Winter";"Sweet pepper";"Barn North";6229.6;4411.4;5495.8;8174.8;8923.6
+"Production";"Winter";"Sweet pepper";"Deir Alla";24626.8;24907.1;16487.3;24524.3;26044.5
+"Production";"Winter";"Sweet pepper";"Barn South";7047.4;2580.0;3232.8;4808.7;4669.3
+"Production";"Winter";"Sweet pepper";"Ghor Safi";86.4;1830.2;879.0;1307.4;1410.6
+"Production";"Winter";"Broad beans";"Amman";0.0;437.5;268.8;373.8;388.0
+"Production";"Winter";"Broad beans";"Balqa";168.7;812.9;890.3;1238.3;1285.2
+"Production";"Winter";"Broad beans";"Zarqa";132.0;594.4;420.0;584.1;606.2
+"Production";"Winter";"Broad beans";"Madaba";0.0;0.0;268.8;373.8;388.0
+"Production";"Winter";"Broad beans";"Irbid";202.8;2333.4;1083.5;1507.0;1564.1
+"Production";"Winter";"Broad beans";"Mafraq";358.8;121.0;319.2;443.9;460.7
+"Production";"Winter";"Broad beans";"Jarash";19.5;1061.3;554.4;771.0;800.2
+"Production";"Winter";"Broad beans";"Ajloun";336.4;205.5;394.8;549.1;485.0
+"Production";"Winter";"Broad beans";"Karak";0.0;11.4;168.0;233.6;242.5
+"Production";"Winter";"Broad beans";"Tafiela";0.0;92.8;142.8;198.6;206.1
+"Production";"Winter";"Broad beans";"Ma'an";52.3;0.0;42.0;58.4;60.6
+"Production";"Winter";"Broad beans";"Aqaba";0.0;430.4;995.3;1384.4;1436.8
+"Production";"Winter";"Broad beans";"Barn North";1009.0;367.4;755.9;1051.4;1115.5
+"Production";"Winter";"Broad beans";"Deir Alla";1547.1;1236.7;1327.1;1845.8;1939.9
+"Production";"Winter";"Broad beans";"Barn South";1228.5;343.6;462.0;642.5;691.1
+"Production";"Winter";"Broad beans";"Ghor Safi";752.9;118.6;302.4;420.6;448.6
+"Production";"Winter";"String beans";"Amman";0.0;201.9;50.9;66.9;45.9
+"Production";"Winter";"String beans";"Balqa";0.0;577.4;119.8;157.4;108.1
+"Production";"Winter";"String beans";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"String beans";"Madaba";0.0;0.0;2.2;3.0;2.0
+"Production";"Winter";"String beans";"Irbid";0.0;0.0;66.5;87.3;60.0
+"Production";"Winter";"String beans";"Mafraq";0.0;0.0;2.6;3.5;2.4
+"Production";"Winter";"String beans";"Jarash";0.0;133.0;20.6;27.1;18.6
+"Production";"Winter";"String beans";"Ajloun";0.0;0.0;8.6;11.3;7.8
+"Production";"Winter";"String beans";"Karak";0.0;15.0;61.9;81.4;55.9
+"Production";"Winter";"String beans";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"String beans";"Ma'an";0.0;880.0;136.4;179.3;123.2
+"Production";"Winter";"String beans";"Aqaba";0.0;0.0;2.2;2.9;2.0
+"Production";"Winter";"String beans";"Barn North";877.0;111.0;563.4;740.5;508.6
+"Production";"Winter";"String beans";"Deir Alla";1140.7;1426.7;1552.4;2040.4;1401.2
+"Production";"Winter";"String beans";"Barn South";146.4;576.3;198.2;260.6;178.9
+"Production";"Winter";"String beans";"Ghor Safi";1250.5;501.5;2224.8;2924.1;2008.1
+"Production";"Winter";"Peas";"Amman";0.0;276.0;167.1;278.2;278.4
+"Production";"Winter";"Peas";"Balqa";0.0;466.6;148.6;247.3;247.4
+"Production";"Winter";"Peas";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Peas";"Madaba";0.0;0.0;60.1;100.1;100.2
+"Production";"Winter";"Peas";"Irbid";197.5;1275.0;219.5;365.4;365.6
+"Production";"Winter";"Peas";"Mafraq";44.0;0.0;4.2;7.0;7.0
+"Production";"Winter";"Peas";"Jarash";7.0;88.0;159.2;265.0;265.1
+"Production";"Winter";"Peas";"Ajloun";0.0;156.0;135.8;226.1;226.2
+"Production";"Winter";"Peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Peas";"Barn North";189.0;60.0;47.5;79.0;79.0
+"Production";"Winter";"Peas";"Deir Alla";0.0;119.0;27.2;45.2;45.2
+"Production";"Winter";"Peas";"Barn South";0.0;0.0;6.8;11.3;11.3
+"Production";"Winter";"Peas";"Ghor Safi";0.0;0.0;9.2;15.3;15.3
+"Production";"Winter";"Cow-peas";"Amman";0.0;0.0;127.7;117.9;123.3
+"Production";"Winter";"Cow-peas";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Irbid";0.0;0.0;29.8;27.5;28.8
+"Production";"Winter";"Cow-peas";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Barn North";0.0;0.0;7.0;6.5;6.8
+"Production";"Winter";"Cow-peas";"Deir Alla";0.0;0.0;36.9;34.1;35.6
+"Production";"Winter";"Cow-peas";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Cow-peas";"Ghor Safi";0.0;0.0;53.6;49.5;51.8
+"Production";"Winter";"Jew's mallow";"Amman";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Jew's mallow";"Barn North";424.3;0.0;1330.9;839.8;1188.8
+"Production";"Winter";"Jew's mallow";"Deir Alla";0.0;67.5;718.0;453.0;641.3
+"Production";"Winter";"Jew's mallow";"Barn South";0.0;0.0;521.1;328.8;465.5
+"Production";"Winter";"Jew's mallow";"Ghor Safi";862.5;767.4;1340.4;845.8;1197.3
+"Production";"Winter";"Okra";"Amman";0.0;0.0;57.8;88.6;85.0
+"Production";"Winter";"Okra";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Irbid";0.0;221.8;55.0;84.3;80.9
+"Production";"Winter";"Okra";"Mafraq";0.0;0.0;0.2;0.4;0.3
+"Production";"Winter";"Okra";"Jarash";0.0;172.0;40.4;62.0;59.4
+"Production";"Winter";"Okra";"Ajloun";0.0;0.0;2.6;3.9;3.8
+"Production";"Winter";"Okra";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Okra";"Aqaba";0.0;0.0;0.1;0.1;0.1
+"Production";"Winter";"Okra";"Barn North";0.0;11.1;282.8;433.3;415.6
+"Production";"Winter";"Okra";"Deir Alla";52.9;208.3;153.9;235.8;226.2
+"Production";"Winter";"Okra";"Barn South";0.0;39.0;20.3;31.2;29.9
+"Production";"Winter";"Okra";"Ghor Safi";0.0;0.0;120.6;184.7;177.2
+"Production";"Winter";"Lettuce";"Amman";16686.3;3258.0;4334.4;3695.3;3623.9
+"Production";"Winter";"Lettuce";"Balqa";0.0;451.6;75.1;64.0;62.8
+"Production";"Winter";"Lettuce";"Zarqa";880.0;451.5;1249.9;1065.6;1045.0
+"Production";"Winter";"Lettuce";"Madaba";0.0;0.0;24.0;20.5;20.1
+"Production";"Winter";"Lettuce";"Irbid";0.0;290.4;172.4;147.0;144.2
+"Production";"Winter";"Lettuce";"Mafraq";882.0;810.0;825.5;703.7;690.1
+"Production";"Winter";"Lettuce";"Jarash";304.2;740.3;1667.7;1421.8;1394.3
+"Production";"Winter";"Lettuce";"Ajloun";0.0;0.0;35.5;30.3;29.7
+"Production";"Winter";"Lettuce";"Karak";0.0;90.0;18.1;15.4;15.1
+"Production";"Winter";"Lettuce";"Tafiela";0.0;0.0;7.3;6.2;6.1
+"Production";"Winter";"Lettuce";"Ma'an";0.0;0.0;0.1;0.0;0.0
+"Production";"Winter";"Lettuce";"Aqaba";0.0;724.7;63.0;53.7;52.7
+"Production";"Winter";"Lettuce";"Barn North";1303.8;6967.8;3413.9;2910.5;2854.3
+"Production";"Winter";"Lettuce";"Deir Alla";11033.1;6076.5;10192.1;8689.3;8521.3
+"Production";"Winter";"Lettuce";"Barn South";4293.1;2961.4;1704.5;1453.2;1425.1
+"Production";"Winter";"Lettuce";"Ghor Safi";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Amman";0.0;0.0;207.6;169.8;300.3
+"Production";"Winter";"Sweet melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Zarqa";776.0;0.0;1917.9;1569.3;2775.1
+"Production";"Winter";"Sweet melon";"Madaba";0.0;3899.4;1848.0;1512.1;2673.9
+"Production";"Winter";"Sweet melon";"Irbid";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Mafraq";0.0;0.0;1565.0;1280.5;2264.5
+"Production";"Winter";"Sweet melon";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Tafiela";0.0;0.0;37.9;31.0;54.9
+"Production";"Winter";"Sweet melon";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Sweet melon";"Aqaba";0.0;0.0;296.6;242.7;429.1
+"Production";"Winter";"Sweet melon";"Barn North";0.0;32.3;1137.7;930.9;1646.2
+"Production";"Winter";"Sweet melon";"Deir Alla";0.0;0.0;163.2;133.5;236.1
+"Production";"Winter";"Sweet melon";"Barn South";147.0;0.0;69.7;57.0;100.8
+"Production";"Winter";"Sweet melon";"Ghor Safi";0.0;183.7;3675.2;3007.2;5317.8
+"Production";"Winter";"Water melon";"Amman";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Zarqa";0.0;0.0;372.5;410.7;494.7
+"Production";"Winter";"Water melon";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Irbid";0.0;1031.5;149.8;165.1;198.9
+"Production";"Winter";"Water melon";"Mafraq";0.0;0.0;961.4;1059.8;1276.6
+"Production";"Winter";"Water melon";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Karak";0.0;0.0;46.3;51.1;61.5
+"Production";"Winter";"Water melon";"Tafiela";0.0;0.0;21.3;23.5;28.3
+"Production";"Winter";"Water melon";"Ma'an";0.0;3411.0;665.3;733.4;883.4
+"Production";"Winter";"Water melon";"Aqaba";3280.0;40595.2;7603.8;8382.4;10096.6
+"Production";"Winter";"Water melon";"Barn North";0.0;55.0;8.0;8.8;10.6
+"Production";"Winter";"Water melon";"Deir Alla";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Water melon";"Ghor Safi";0.0;249.3;1662.2;1832.4;2207.1
+"Production";"Winter";"Spinach";"Amman";495.0;0.0;300.3;313.6;234.6
+"Production";"Winter";"Spinach";"Balqa";0.0;254.2;907.3;947.6;708.8
+"Production";"Winter";"Spinach";"Zarqa";75.0;165.7;2577.3;2691.7;2013.5
+"Production";"Winter";"Spinach";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Spinach";"Irbid";0.0;99.5;229.4;239.6;179.2
+"Production";"Winter";"Spinach";"Mafraq";737.0;2864.0;2872.0;2999.4;2243.7
+"Production";"Winter";"Spinach";"Jarash";0.0;0.0;1.5;1.5;1.1
+"Production";"Winter";"Spinach";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Spinach";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Spinach";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Spinach";"Ma'an";0.0;13.5;7.3;7.7;5.7
+"Production";"Winter";"Spinach";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Spinach";"Barn North";0.0;670.3;1068.8;1116.3;835.0
+"Production";"Winter";"Spinach";"Deir Alla";0.0;320.4;413.3;431.6;322.9
+"Production";"Winter";"Spinach";"Barn South";1686.0;0.0;1340.5;1399.9;1047.2
+"Production";"Winter";"Spinach";"Ghor Safi";0.0;464.1;1150.1;1201.2;898.5
+"Production";"Winter";"Onion green";"Amman";2137.9;550.0;403.0;614.4;370.6
+"Production";"Winter";"Onion green";"Balqa";0.0;0.0;2.2;3.4;2.0
+"Production";"Winter";"Onion green";"Zarqa";244.5;854.2;185.8;283.4;170.9
+"Production";"Winter";"Onion green";"Madaba";0.0;0.0;139.9;213.3;128.7
+"Production";"Winter";"Onion green";"Irbid";0.0;2234.4;1125.5;1716.1;1035.2
+"Production";"Winter";"Onion green";"Mafraq";173.0;272.0;142.5;217.3;131.1
+"Production";"Winter";"Onion green";"Jarash";0.0;106.0;29.6;45.1;27.2
+"Production";"Winter";"Onion green";"Ajloun";0.0;130.6;337.3;514.3;310.2
+"Production";"Winter";"Onion green";"Karak";0.0;0.0;8.9;13.6;8.2
+"Production";"Winter";"Onion green";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Onion green";"Ma'an";0.0;225.0;33.7;51.4;31.0
+"Production";"Winter";"Onion green";"Aqaba";0.0;76.0;6.2;9.5;5.7
+"Production";"Winter";"Onion green";"Barn North";1126.5;536.0;638.8;973.9;587.5
+"Production";"Winter";"Onion green";"Deir Alla";132.4;0.0;441.9;673.8;406.4
+"Production";"Winter";"Onion green";"Barn South";18.2;0.0;100.0;152.5;92.0
+"Production";"Winter";"Onion green";"Ghor Safi";0.0;849.6;760.3;1159.3;699.3
+"Production";"Winter";"Onion dry";"Amman";1406.0;4871.7;5093.4;7013.8;6893.3
+"Production";"Winter";"Onion dry";"Balqa";25.9;186.2;223.2;307.3;302.1
+"Production";"Winter";"Onion dry";"Zarqa";506.0;0.0;29.3;40.3;39.6
+"Production";"Winter";"Onion dry";"Madaba";0.0;16136.5;0.0;0.0;0.0
+"Production";"Winter";"Onion dry";"Irbid";9465.7;4721.0;11988.1;16508.2;16224.5
+"Production";"Winter";"Onion dry";"Mafraq";3901.2;897.0;0.0;0.0;0.0
+"Production";"Winter";"Onion dry";"Jarash";0.0;0.0;48.2;66.4;65.2
+"Production";"Winter";"Onion dry";"Ajloun";84.9;2040.5;217.1;299.0;293.8
+"Production";"Winter";"Onion dry";"Karak";20.6;0.0;0.0;0.0;0.0
+"Production";"Winter";"Onion dry";"Tafiela";920.0;1757.5;0.0;0.0;0.0
+"Production";"Winter";"Onion dry";"Ma'an";3055.0;897.5;3577.1;4925.9;4841.2
+"Production";"Winter";"Onion dry";"Aqaba";0.0;5289.0;6186.1;8518.6;8372.2
+"Production";"Winter";"Onion dry";"Barn North";975.9;1058.3;2174.0;2993.7;2942.3
+"Production";"Winter";"Onion dry";"Deir Alla";6908.3;5925.2;8927.7;12293.8;12082.5
+"Production";"Winter";"Onion dry";"Barn South";74.0;931.7;1347.5;1855.6;1823.7
+"Production";"Winter";"Onion dry";"Ghor Safi";26088.8;15484.4;22295.2;30701.4;30173.8
+"Production";"Winter";"Snake cucumber";"Amman";0.0;0.0;1.2;1.3;1.7
+"Production";"Winter";"Snake cucumber";"Balqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Zarqa";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Irbid";0.0;1702.5;294.5;333.1;440.0
+"Production";"Winter";"Snake cucumber";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Jarash";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Tafiela";0.0;13.8;7.3;8.3;10.9
+"Production";"Winter";"Snake cucumber";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Barn North";0.0;0.0;6.3;7.2;9.5
+"Production";"Winter";"Snake cucumber";"Deir Alla";0.0;0.0;2.5;2.8;3.7
+"Production";"Winter";"Snake cucumber";"Barn South";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Snake cucumber";"Ghor Safi";0.0;0.0;0.6;0.7;1.0
+"Production";"Winter";"Turnip";"Amman";0.0;0.0;59.8;82.1;54.0
+"Production";"Winter";"Turnip";"Balqa";0.0;0.0;0.2;0.2;0.2
+"Production";"Winter";"Turnip";"Zarqa";2646.6;589.1;1096.5;1505.2;989.8
+"Production";"Winter";"Turnip";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Irbid";0.0;0.0;54.6;74.9;49.3
+"Production";"Winter";"Turnip";"Mafraq";0.0;0.0;142.5;195.6;128.7
+"Production";"Winter";"Turnip";"Jarash";0.0;141.5;67.8;93.1;61.2
+"Production";"Winter";"Turnip";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Turnip";"Barn North";2454.7;122.5;702.8;964.7;634.4
+"Production";"Winter";"Turnip";"Deir Alla";0.0;914.3;516.5;709.0;466.2
+"Production";"Winter";"Turnip";"Barn South";0.0;0.0;43.5;59.7;39.2
+"Production";"Winter";"Turnip";"Ghor Safi";0.0;0.0;29.1;40.0;26.3
+"Production";"Winter";"Carrot";"Amman";0.0;3473.0;927.7;832.9;542.1
+"Production";"Winter";"Carrot";"Balqa";0.0;0.0;185.5;166.6;108.4
+"Production";"Winter";"Carrot";"Zarqa";630.8;120.1;1669.9;1499.3;975.7
+"Production";"Winter";"Carrot";"Madaba";0.0;0.0;36.4;32.7;21.3
+"Production";"Winter";"Carrot";"Irbid";0.0;379.2;5399.3;4847.6;3154.9
+"Production";"Winter";"Carrot";"Mafraq";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Jarash";0.0;136.3;23.7;21.2;13.8
+"Production";"Winter";"Carrot";"Ajloun";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Karak";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Carrot";"Barn North";765.0;1088.6;1020.5;916.2;596.3
+"Production";"Winter";"Carrot";"Deir Alla";10649.5;9014.2;8349.4;7496.3;4878.7
+"Production";"Winter";"Carrot";"Barn South";1557.9;1166.9;946.3;849.6;552.9
+"Production";"Winter";"Carrot";"Ghor Safi";15.9;0.0;3.1;2.7;1.8
+"Production";"Winter";"Parsley";"Amman";0.0;0.0;53.5;64.0;45.7
+"Production";"Winter";"Parsley";"Balqa";0.0;0.0;0.1;0.1;0.1
+"Production";"Winter";"Parsley";"Zarqa";1832.2;144.8;1210.3;1448.8;1033.0
+"Production";"Winter";"Parsley";"Madaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Parsley";"Irbid";0.0;0.0;4.3;5.2;3.7
+"Production";"Winter";"Parsley";"Mafraq";622.0;1848.0;915.4;1095.9;781.3
+"Production";"Winter";"Parsley";"Jarash";0.0;168.6;94.7;113.4;80.8
+"Production";"Winter";"Parsley";"Ajloun";0.0;0.0;1.4;1.6;1.2
+"Production";"Winter";"Parsley";"Karak";0.0;0.0;0.5;0.6;0.4
+"Production";"Winter";"Parsley";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Parsley";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Parsley";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Parsley";"Barn North";194.6;0.0;133.0;159.2;113.5
+"Production";"Winter";"Parsley";"Deir Alla";260.8;0.0;44.1;52.8;37.7
+"Production";"Winter";"Parsley";"Barn South";2987.3;930.4;4030.6;4825.0;3440.1
+"Production";"Winter";"Parsley";"Ghor Safi";0.0;0.0;1.2;1.4;1.0
+"Production";"Winter";"Radish";"Amman";0.0;354.4;608.8;442.8;373.9
+"Production";"Winter";"Radish";"Balqa";0.0;612.3;673.5;489.8;413.6
+"Production";"Winter";"Radish";"Zarqa";0.0;2403.0;2195.6;1596.9;1348.5
+"Production";"Winter";"Radish";"Madaba";0.0;0.0;81.6;59.4;50.1
+"Production";"Winter";"Radish";"Irbid";0.0;75.0;89.5;65.1;55.0
+"Production";"Winter";"Radish";"Mafraq";0.0;0.0;81.2;59.1;49.9
+"Production";"Winter";"Radish";"Jarash";530.7;308.3;436.5;317.5;268.1
+"Production";"Winter";"Radish";"Ajloun";0.0;0.0;99.7;72.5;61.2
+"Production";"Winter";"Radish";"Karak";0.0;0.0;1.4;1.0;0.8
+"Production";"Winter";"Radish";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Radish";"Ma'an";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Radish";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Radish";"Barn North";1071.0;620.6;1352.2;983.5;830.5
+"Production";"Winter";"Radish";"Deir Alla";473.6;488.4;1580.0;1149.2;970.4
+"Production";"Winter";"Radish";"Barn South";76.0;52.0;714.5;519.7;438.8
+"Production";"Winter";"Radish";"Ghor Safi";9.6;0.0;4.8;3.5;2.9
+"Production";"Winter";"Other Vegetables";"Amman";8546.8;7586.7;6220.0;6984.4;8251.7
+"Production";"Winter";"Other Vegetables";"Balqa";0.0;237.8;114.2;128.2;151.5
+"Production";"Winter";"Other Vegetables";"Zarqa";4397.1;1557.4;2842.4;3191.8;3770.9
+"Production";"Winter";"Other Vegetables";"Madaba";0.0;0.0;54.2;60.8;71.9
+"Production";"Winter";"Other Vegetables";"Irbid";70.4;8043.2;1389.1;1559.8;1842.9
+"Production";"Winter";"Other Vegetables";"Mafraq";388.5;487.0;1458.2;1637.4;1934.5
+"Production";"Winter";"Other Vegetables";"Jarash";32.0;190.1;221.5;248.7;293.8
+"Production";"Winter";"Other Vegetables";"Ajloun";0.0;0.0;303.3;340.6;402.4
+"Production";"Winter";"Other Vegetables";"Karak";0.0;43.5;6.0;6.7;7.9
+"Production";"Winter";"Other Vegetables";"Tafiela";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Other Vegetables";"Ma'an";0.0;0.0;1.2;1.4;1.6
+"Production";"Winter";"Other Vegetables";"Aqaba";0.0;0.0;0.0;0.0;0.0
+"Production";"Winter";"Other Vegetables";"Barn North";1176.5;1201.3;1363.6;1531.2;1809.0
+"Production";"Winter";"Other Vegetables";"Deir Alla";3198.3;1972.2;1295.8;1455.1;1719.1
+"Production";"Winter";"Other Vegetables";"Barn South";4572.5;1762.4;3464.4;3890.2;4596.1
+"Production";"Winter";"Other Vegetables";"Ghor Safi";58.9;35.4;69.0;77.5;91.6

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>Hasad - Farm Optimizer</title></head>
+<body>
+    <h2>Farm Allocation Optimizer</h2>
+    <a href="/">Profit</a> | <a href="/yield">Yield</a> | <a href="/demand">Demand</a>
+    <br><br>
+
+    <form action="/predict_optimization" method="post">
+        <b>Farm Details</b><br>
+        Total Farm Area (ha): <input type="number" step="0.1" name="area" value="100.0"><br>
+        
+        Farm Location:
+        <select name="farm_location">
+            <option value="Jordan Valley">Jordan Valley</option>
+            <option value="Highlands">Highlands</option>
+            <option value="Southern">Southern</option>
+        </select><br><br>
+
+        <b>Planting Window</b><br>
+        Planting Date: <input type="date" name="p_date" value="2024-01-01"><br>
+        Expected Sale: <input type="date" name="s_date" value="2024-06-01"><br><br>
+
+        <b>Crop Selection</b><br>
+        Enter crops to compare (comma separated):<br>
+        <input type="text" name="crops_list" value="Tomato, Potato, Banana, Orange, Apple" style="width: 300px;"><br>
+        <i>The engine will distribute your area among these crops to maximize profit.</i>
+        <br><br>
+
+        <input type="submit" value="Calculate Best Allocation">
+    </form>
+</body>
+</html>

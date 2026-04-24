@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1773785278281,"sparkVersion":"4.0.2","uid":"StringIndexer_8f3d06e36f0f","paramMap":{"outputCol":"market_location_idx","inputCol":"market_location","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_8f3d06e36f0f__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

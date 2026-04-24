@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head><title>Yield Predictor</title></head>
+<body>
+    <h2>Yield Predictor</h2>
+    <a href="/">Profit</a> |
+    <a href="/demand">Demand Level</a> |
+    <a href="/market_price">Market Price</a>
+    <br><br>
+
+    <form action="/predict_yield" method="post">
+
+        <b>Crop & Farm</b><br>
+        Crop Name: <input type="text" name="crop" value="Peach"><br>
+
+        Farm Location:
+        <select name="farm_location">
+            <option value="Jordan Valley">Jordan Valley</option>
+            <option value="Highlands">Highlands</option>
+            <option value="Southern">Southern</option>
+            <option value="Other">Other</option>
+        </select><br>
+
+        Region Type:
+        <select name="region_type">
+            <option value="Rural">Rural</option>
+            <option value="Urban">Urban</option>
+            <option value="Suburban">Suburban</option>
+        </select><br>
+
+        Area (ha): <input type="number" step="0.1" name="area" value="10.0"><br>
+        Planting Date: <input type="date" name="p_date" value="2023-01-01"><br>
+        Sale Date: <input type="date" name="s_date" value="2023-06-01"><br>
+        <br>
+
+        <b>Farm Inputs</b><br>
+        Fertilizer Used: <input type="number" step="0.1" name="fertilizer_used" value="0.0"><br>
+        Water Used: <input type="number" step="0.1" name="water_used" value="0.0"><br>
+        <br>
+
+        <b>Weather</b><br>
+        Temperature (C): <input type="number" step="0.1" name="temperature" value="0.0"><br>
+        Humidity (%): <input type="number" step="0.1" name="humidity" value="0.0"><br>
+        Rainfall (mm): <input type="number" step="0.1" name="rainfall" value="0.0"><br>
+        Wind Speed (km/h): <input type="number" step="0.1" name="wind_speed" value="0.0"><br>
+        Pest Indicator: <input type="checkbox" name="pest_indicator" value="true">
+        <input type="hidden" name="pest_indicator" value="false"><br>
+        <br>
+
+        <input type="submit" value="Predict Yield">
+    </form>
+</body>
+</html>

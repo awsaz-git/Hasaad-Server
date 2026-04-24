@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head><title>Demand Level Predictor</title></head>
+<body>
+    <h2>Demand Level Predictor</h2>
+    <a href="/">Profit</a> |
+    <a href="/yield">Yield</a> |
+    <a href="/market_price">Market Price</a>
+    <br><br>
+
+    <form action="/predict_demand" method="post">
+
+        <b>Crop & Market</b><br>
+        Crop Name: <input type="text" name="crop_name" value="Peach"><br>
+
+        Market Location:
+        <select name="market_location">
+            <option value="Amman">Amman</option>
+            <option value="Zarqa">Zarqa</option>
+            <option value="Irbid">Irbid</option>
+            <option value="Aqaba">Aqaba</option>
+            <option value="Other">Other</option>
+        </select><br>
+
+        Sufficiency Status:
+        <select name="sufficiency_status">
+            <option value="Surplus">Surplus</option>
+            <option value="Balanced">Balanced</option>
+            <option value="Deficit">Deficit</option>
+        </select><br>
+
+        Sale Date: <input type="date" name="sale_date" value="2023-06-01"><br>
+        <br>
+
+        <b>Market Metrics</b><br>
+        Sale Gap Days: <input type="number" step="1" name="sale_gap_days" value="0"><br>
+        Supply Score: <input type="number" step="0.1" name="supply_score" value="0.0"><br>
+        Market Price: <input type="number" step="0.01" name="market_price" value="0.0"><br>
+        <br>
+
+        <b>Weather</b><br>
+        Temperature (C): <input type="number" step="0.1" name="temperature" value="0.0"><br>
+        Humidity (%): <input type="number" step="0.1" name="humidity" value="0.0"><br>
+        Rainfall (mm): <input type="number" step="0.1" name="rainfall" value="0.0"><br>
+        Wind Speed (km/h): <input type="number" step="0.1" name="wind_speed" value="0.0"><br>
+        <br>
+
+        <input type="submit" value="Predict Demand Level">
+    </form>
+</body>
+</html>
