@@ -1,4 +1,7 @@
-﻿annotated-doc==0.0.4
+﻿pip
+setuptools
+wheel
+annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.12.1
 asttokens==3.0.1
@@ -48,4 +51,4 @@ tzdata==2025.3
 uvicorn==0.39.0
 wcwidth==0.6.0
 zipp==3.23.0
-dotenv
+python-dotenv
