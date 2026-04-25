@@ -311,6 +311,8 @@ async def lifespan(app: FastAPI):
         conf.set("spark.driver.extraJavaOptions", "-Xss4m -Dspark.authenticate=false")
         conf.set("spark.python.worker.reuse", "true")
         conf.set("spark.executor.logs.rolling.enabled", "false")
+        conf.set("spark.driver.bindAddress", "127.0.0.1")
+        conf.set("spark.driver.host", "127.0.0.1")
         spark = SparkSession.builder.config(conf=conf).getOrCreate()
         spark.sparkContext.setLogLevel("ERROR")
 
