@@ -360,6 +360,22 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# ---------------------------------------------------------------------------
+# Middleware — disable caching so Render's CDN never serves stale responses
+# ---------------------------------------------------------------------------
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request as StarletteRequest
+
+class NoCacheMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: StarletteRequest, call_next):
+        response = await call_next(request)
+        response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+        response.headers["Pragma"] = "no-cache"
+        response.headers["Expires"] = "0"
+        return response
+
+app.add_middleware(NoCacheMiddleware)
+
 
 # ---------------------------------------------------------------------------
 # Enums (removed - using string values directly)
