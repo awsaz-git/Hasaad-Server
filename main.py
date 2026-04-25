@@ -20,8 +20,7 @@ from enum import Enum
 from pathlib import Path
 from typing import Optional
 
-os.environ["HADOOP_HOME"] = r"C:\hadoop"
-os.environ["PATH"] += r";C:\hadoop\bin"
+# Hadoop home not needed on Linux/Docker — removed Windows-specific paths
 
 import httpx
 import pyspark.sql.functions as F
@@ -288,8 +287,18 @@ async def lifespan(app: FastAPI):
         spark = (
             SparkSession.builder
             .appName("hasad-api")
-            .master("local[*]")
+            .master("local[2]")
             .config("spark.ui.showConsoleProgress", "false")
+            .config("spark.ui.enabled", "false")
+            .config("spark.driver.memory", "1g")
+            .config("spark.executor.memory", "1g")
+            .config("spark.driver.maxResultSize", "512m")
+            .config("spark.sql.shuffle.partitions", "4")
+            .config("spark.default.parallelism", "4")
+            .config("spark.authenticate", "false")
+            .config("spark.io.encryption.enabled", "false")
+            .config("spark.network.timeout", "300s")
+            .config("spark.driver.extraJavaOptions", "-Xss4m")
             .getOrCreate()
         )
         spark.sparkContext.setLogLevel("ERROR")
