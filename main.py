@@ -284,23 +284,26 @@ async def lifespan(app: FastAPI):
 
     logger.info("Starting Spark session...")
     try:
-        spark = (
-            SparkSession.builder
-            .appName("hasad-api")
-            .master("local[2]")
-            .config("spark.ui.showConsoleProgress", "false")
-            .config("spark.ui.enabled", "false")
-            .config("spark.driver.memory", "1g")
-            .config("spark.executor.memory", "1g")
-            .config("spark.driver.maxResultSize", "512m")
-            .config("spark.sql.shuffle.partitions", "4")
-            .config("spark.default.parallelism", "4")
-            .config("spark.authenticate", "false")
-            .config("spark.io.encryption.enabled", "false")
-            .config("spark.network.timeout", "300s")
-            .config("spark.driver.extraJavaOptions", "-Xss4m")
-            .getOrCreate()
-        )
+        from pyspark import SparkConf
+        # SparkConf is used instead of chained .config() calls because
+        # spark.authenticate must be set before the JVM initializes —
+        # builder-chained configs are applied too late in PySpark 3.5,
+        # causing the AccumulatorServer to still enforce token auth.
+        conf = SparkConf()
+        conf.setAppName("hasad-api")
+        conf.setMaster("local[2]")
+        conf.set("spark.authenticate", "false")
+        conf.set("spark.io.encryption.enabled", "false")
+        conf.set("spark.ui.enabled", "false")
+        conf.set("spark.ui.showConsoleProgress", "false")
+        conf.set("spark.driver.memory", "1g")
+        conf.set("spark.executor.memory", "1g")
+        conf.set("spark.driver.maxResultSize", "512m")
+        conf.set("spark.sql.shuffle.partitions", "4")
+        conf.set("spark.default.parallelism", "4")
+        conf.set("spark.network.timeout", "300s")
+        conf.set("spark.driver.extraJavaOptions", "-Xss4m -Dspark.authenticate=false")
+        spark = SparkSession.builder.config(conf=conf).getOrCreate()
         spark.sparkContext.setLogLevel("ERROR")
 
         logger.info("Loading ML models...")
