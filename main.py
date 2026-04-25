@@ -649,11 +649,13 @@ async def predict_profit(
     area_donums: float = Form(...),
     planting_date: str = Form(...),
     sale_date: str = Form(...),
-):
+): 
     """
     Simplified profit prediction endpoint.
     Frontend provides minimal inputs; backend auto-fetches data.
     """
+    logger.info("PREDICTION REQUEST RECEIVED - predict_profit")
+    logger.info(f"RAW BODY: crop_name={crop_name}, governorate={governorate}")
     try:
         payload = ProfitInput(
             crop_name=crop_name,
