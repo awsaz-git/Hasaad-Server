@@ -104,11 +104,17 @@ optimizer_service = CropOptimizer(min_share=0.05, max_share=0.40)
 # ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
+# force=True is critical — Spark's Log4j hijacks Python's root logger on init.
+# Without force=True, this basicConfig call is silently ignored after Spark starts,
+# causing all logger.info() calls to produce no output in Render logs.
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+    force=True,
 )
 logger = logging.getLogger("hasad-api")
+# Also set the root logger level explicitly to ensure nothing is filtered
+logging.getLogger().setLevel(logging.INFO)
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -303,9 +309,24 @@ async def lifespan(app: FastAPI):
         conf.set("spark.default.parallelism", "4")
         conf.set("spark.network.timeout", "300s")
         conf.set("spark.driver.extraJavaOptions", "-Xss4m -Dspark.authenticate=false")
+        conf.set("spark.python.worker.reuse", "true")
+        conf.set("spark.executor.logs.rolling.enabled", "false")
         spark = SparkSession.builder.config(conf=conf).getOrCreate()
         spark.sparkContext.setLogLevel("ERROR")
 
+        # Re-apply Python logging config after Spark init — Spark resets the
+        # root logger handler, so we must restore it here.
+        logging.basicConfig(
+            level=logging.INFO,
+            format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+            force=True,
+        )
+        logging.getLogger().setLevel(logging.INFO)
+        # Route uvicorn logs through the same handler
+        logging.getLogger("uvicorn").setLevel(logging.INFO)
+        logging.getLogger("uvicorn.access").setLevel(logging.INFO)
+
+        logger.info("Spark session started. Python logging restored.")
         logger.info("Loading ML models...")
         app.state.spark = spark
         app.state.profit_model = PipelineModel.load(str(MODELS_DIR / "rf_profit_model"))
