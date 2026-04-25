@@ -372,6 +372,9 @@ class NoCacheMiddleware(BaseHTTPMiddleware):
         response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
         response.headers["Pragma"] = "no-cache"
         response.headers["Expires"] = "0"
+        response.headers["Surrogate-Control"] = "no-store"
+        response.headers["CDN-Cache-Control"] = "no-store"
+
         return response
 
 app.add_middleware(NoCacheMiddleware)
