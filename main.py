@@ -1115,9 +1115,24 @@ async def predict_optimization(
         # Transform ONCE
         predictions_df = model.transform(batch_df).select("crop_name", "prediction").collect()
 
+        # Log raw predictions to debug zero-profit issues
+        logger.info("Raw predictions from model: %s", [(row["crop_name"], row["prediction"]) for row in predictions_df])
+
         # Map results back to original crops order
         prediction_map = {row["crop_name"]: max(0, row["prediction"]) for row in predictions_df}
         predicted_profits = [prediction_map.get(crop, 0.0) for crop in crops]
+
+        logger.info("Crops: %s", crops)
+        logger.info("Predicted profits per crop: %s", predicted_profits)
+
+        # Guard: if ALL profits are 0, use baseline fallback so optimizer has something to work with
+        if all(p == 0.0 for p in predicted_profits):
+            logger.warning("All predicted profits are 0 — falling back to baseline market prices")
+            predicted_profits = [
+                baselines.get(crop, {}).get("market_price", 100.0)
+                for crop in crops
+            ]
+            logger.info("Fallback profits: %s", predicted_profits)
 
         # Run the Optimizer
         result = optimizer_service.optimize(area_ha, crops, predicted_profits)
